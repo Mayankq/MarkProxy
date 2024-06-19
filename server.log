@@ -1,0 +1,1638 @@
+2024-06-19 06:31:18,978 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 06:31:19,026 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 06:31:19,170 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:31:19,170 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:31:19,311 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 06:31:19,311 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 06:31:19,408 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 06:31:19,464 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 06:31:19,571 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:31:19,616 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:31:19,659 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 06:31:19,712 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 06:31:20,099 - proxy_server - DEBUG - Received CONNECT request for firefox.settings.services.mozilla.com
+2024-06-19 06:31:20,149 - proxy_server - DEBUG - Received CONNECT request for incoming.telemetry.mozilla.org
+2024-06-19 06:31:20,212 - proxy_server - DEBUG - Received CONNECT request for tiles-cdn.prod.ads.prod.webservices.mozgcp.net
+2024-06-19 06:31:20,329 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:31:20,329 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:31:20,337 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:31:20,458 - proxy_server - DEBUG - SSL handshake with tiles-cdn.prod.ads.prod.webservices.mozgcp.net succeeded
+2024-06-19 06:31:20,459 - proxy_server - DEBUG - SSL handshake with firefox.settings.services.mozilla.com succeeded
+2024-06-19 06:31:20,460 - proxy_server - DEBUG - SSL handshake with incoming.telemetry.mozilla.org succeeded
+2024-06-19 06:31:20,509 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 06:31:20,533 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 06:31:20,533 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 06:31:20,707 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:31:20,809 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 06:31:20,813 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:31:20,813 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:31:20,814 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:31:20,815 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:31:21,000 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 06:31:21,023 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:31:21,078 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 06:31:21,078 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 06:31:21,080 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:31:21,221 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 06:31:21,221 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 06:31:21,227 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:31:21,323 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:31:21,499 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:31:21,550 - proxy_server - DEBUG - Client closed connection
+2024-06-19 06:31:21,562 - proxy_server - DEBUG - Received CONNECT request for www.gstatic.com
+2024-06-19 06:31:21,626 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:31:21,727 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 06:31:21,728 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:31:21,729 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:31:21,821 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:31:21,880 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:31:21,932 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:31:22,030 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:31:22,171 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 06:31:22,214 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 06:31:22,215 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:31:22,286 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:31:22,287 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:31:22,287 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:31:22,287 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:31:22,287 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 06:31:22,298 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:31:22,397 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:31:22,444 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:31:22,482 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:31:22,498 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:31:22,506 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:31:22,569 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:31:22,569 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:31:22,662 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 06:31:22,768 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:31:22,768 - proxy_server - DEBUG - Received CONNECT request for adservice.google.com
+2024-06-19 06:31:22,769 - proxy_server - DEBUG - Blocked ad domain: adservice.google.com
+2024-06-19 06:31:22,857 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 06:31:32,544 - proxy_server - DEBUG - Client closed connection
+2024-06-19 06:31:32,549 - proxy_server - DEBUG - Received CONNECT request for incoming.telemetry.mozilla.org
+2024-06-19 06:31:32,621 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:31:32,685 - proxy_server - DEBUG - SSL handshake with incoming.telemetry.mozilla.org succeeded
+2024-06-19 06:31:42,915 - proxy_server - DEBUG - Client closed connection
+2024-06-19 06:31:42,918 - proxy_server - DEBUG - Received CONNECT request for incoming.telemetry.mozilla.org
+2024-06-19 06:31:43,068 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:31:43,126 - proxy_server - DEBUG - SSL handshake with incoming.telemetry.mozilla.org succeeded
+2024-06-19 06:31:53,253 - proxy_server - DEBUG - Client closed connection
+2024-06-19 06:36:02,394 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:36:02,481 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:02,597 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:36:02,735 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:36:02,836 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:02,885 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:36:02,950 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:36:03,049 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:36:03,049 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:36:03,093 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:36:03,283 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:03,285 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:03,285 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:03,285 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:03,471 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:36:03,471 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:36:03,471 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:36:03,471 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:36:03,548 - proxy_server - DEBUG - Received CONNECT request for adservice.google.com
+2024-06-19 06:36:03,549 - proxy_server - DEBUG - Blocked ad domain: adservice.google.com
+2024-06-19 06:36:03,852 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 06:36:03,950 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:04,042 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 06:36:36,658 - proxy_server - DEBUG - Received CONNECT request for incoming.telemetry.mozilla.org
+2024-06-19 06:36:36,782 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 06:36:36,782 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 06:36:36,891 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 06:36:36,938 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:37,056 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:37,060 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:37,060 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:37,066 - proxy_server - DEBUG - SSL handshake with incoming.telemetry.mozilla.org succeeded
+2024-06-19 06:36:37,170 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:36:37,212 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 06:36:37,218 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 06:36:37,218 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 06:36:37,270 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:37,346 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:36:37,445 - proxy_server - DEBUG - Received CONNECT request for encrypted-tbn0.gstatic.com
+2024-06-19 06:36:37,472 - proxy_server - DEBUG - Received CONNECT request for encrypted-tbn0.gstatic.com
+2024-06-19 06:36:37,565 - proxy_server - DEBUG - Received CONNECT request for encrypted-tbn0.gstatic.com
+2024-06-19 06:36:37,596 - proxy_server - DEBUG - Received CONNECT request for encrypted-tbn0.gstatic.com
+2024-06-19 06:36:37,762 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:37,772 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:37,806 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:37,806 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:37,915 - proxy_server - DEBUG - SSL handshake with encrypted-tbn0.gstatic.com succeeded
+2024-06-19 06:36:37,947 - proxy_server - DEBUG - SSL handshake with encrypted-tbn0.gstatic.com succeeded
+2024-06-19 06:36:37,947 - proxy_server - DEBUG - SSL handshake with encrypted-tbn0.gstatic.com succeeded
+2024-06-19 06:36:37,947 - proxy_server - DEBUG - SSL handshake with encrypted-tbn0.gstatic.com succeeded
+2024-06-19 06:36:38,874 - proxy_server - DEBUG - Client closed connection
+2024-06-19 06:36:38,933 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:36:39,056 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:39,135 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:36:39,318 - proxy_server - DEBUG - Received CONNECT request for scroll.in
+2024-06-19 06:36:39,372 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:39,428 - proxy_server - DEBUG - SSL handshake with scroll.in succeeded
+2024-06-19 06:36:39,614 - proxy_server - DEBUG - Received CONNECT request for fonts.googleapis.com
+2024-06-19 06:36:39,653 - proxy_server - DEBUG - Client closed connection
+2024-06-19 06:36:39,653 - proxy_server - DEBUG - Received CONNECT request for scroll.in
+2024-06-19 06:36:39,700 - proxy_server - DEBUG - Received CONNECT request for www.googletagmanager.com
+2024-06-19 06:36:39,777 - proxy_server - DEBUG - Received CONNECT request for scroll.in
+2024-06-19 06:36:39,878 - proxy_server - DEBUG - Received CONNECT request for sc0.blr1.cdn.digitaloceanspaces.com
+2024-06-19 06:36:39,878 - proxy_server - DEBUG - Blocked ad domain: www.googletagmanager.com
+2024-06-19 06:36:39,896 - proxy_server - DEBUG - Received CONNECT request for sc0.blr1.cdn.digitaloceanspaces.com
+2024-06-19 06:36:40,062 - proxy_server - DEBUG - Received CONNECT request for sc0.blr1.cdn.digitaloceanspaces.com
+2024-06-19 06:36:40,077 - proxy_server - DEBUG - Received CONNECT request for sc0.blr1.cdn.digitaloceanspaces.com
+2024-06-19 06:36:40,164 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 06:36:40,164 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 06:36:40,252 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:40,261 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:40,261 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:40,282 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:40,304 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:40,349 - proxy_server - DEBUG - SSL handshake with scroll.in succeeded
+2024-06-19 06:36:40,458 - proxy_server - DEBUG - SSL handshake with sc0.blr1.cdn.digitaloceanspaces.com succeeded
+2024-06-19 06:36:40,475 - proxy_server - DEBUG - SSL handshake with sc0.blr1.cdn.digitaloceanspaces.com succeeded
+2024-06-19 06:36:40,477 - proxy_server - DEBUG - Received CONNECT request for ads.pubmatic.com
+2024-06-19 06:36:40,510 - proxy_server - DEBUG - SSL handshake with sc0.blr1.cdn.digitaloceanspaces.com succeeded
+2024-06-19 06:36:40,510 - proxy_server - DEBUG - SSL handshake with sc0.blr1.cdn.digitaloceanspaces.com succeeded
+2024-06-19 06:36:40,510 - proxy_server - DEBUG - Received CONNECT request for c.amazon-adsystem.com
+2024-06-19 06:36:40,633 - proxy_server - DEBUG - Received CONNECT request for scroll.in
+2024-06-19 06:36:40,633 - proxy_server - DEBUG - Received CONNECT request for storage.googleapis.com
+2024-06-19 06:36:40,759 - proxy_server - DEBUG - Received CONNECT request for storage.googleapis.com
+2024-06-19 06:36:40,844 - proxy_server - DEBUG - Received CONNECT request for storage.googleapis.com
+2024-06-19 06:36:41,023 - proxy_server - DEBUG - Received CONNECT request for storage.googleapis.com
+2024-06-19 06:36:41,076 - proxy_server - DEBUG - Received CONNECT request for storage.googleapis.com
+2024-06-19 06:36:41,130 - proxy_server - DEBUG - Received CONNECT request for securepubads.g.doubleclick.net
+2024-06-19 06:36:41,130 - proxy_server - DEBUG - Received CONNECT request for storage.googleapis.com
+2024-06-19 06:36:41,295 - proxy_server - DEBUG - Blocked ad domain: securepubads.g.doubleclick.net
+2024-06-19 06:36:41,330 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:41,330 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:41,330 - proxy_server - DEBUG - Received CONNECT request for securepubads.g.doubleclick.net
+2024-06-19 06:36:41,337 - proxy_server - DEBUG - Blocked ad domain: securepubads.g.doubleclick.net
+2024-06-19 06:36:41,418 - proxy_server - DEBUG - SSL handshake with scroll.in succeeded
+2024-06-19 06:36:41,418 - proxy_server - DEBUG - SSL handshake with ads.pubmatic.com succeeded
+2024-06-19 06:36:41,424 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:41,426 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:41,426 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:41,426 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:41,426 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:41,426 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:41,426 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:41,694 - proxy_server - DEBUG - SSL handshake with c.amazon-adsystem.com succeeded
+2024-06-19 06:36:41,699 - proxy_server - DEBUG - SSL handshake with storage.googleapis.com succeeded
+2024-06-19 06:36:41,699 - proxy_server - DEBUG - SSL handshake with storage.googleapis.com succeeded
+2024-06-19 06:36:41,724 - proxy_server - DEBUG - SSL handshake with storage.googleapis.com succeeded
+2024-06-19 06:36:41,724 - proxy_server - DEBUG - SSL handshake with storage.googleapis.com succeeded
+2024-06-19 06:36:41,724 - proxy_server - DEBUG - SSL handshake with storage.googleapis.com succeeded
+2024-06-19 06:36:41,724 - proxy_server - DEBUG - SSL handshake with storage.googleapis.com succeeded
+2024-06-19 06:36:48,875 - proxy_server - DEBUG - Client closed connection
+2024-06-19 06:36:48,878 - proxy_server - DEBUG - Received CONNECT request for incoming.telemetry.mozilla.org
+2024-06-19 06:36:48,974 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:36:49,018 - proxy_server - DEBUG - SSL handshake with incoming.telemetry.mozilla.org succeeded
+2024-06-19 06:36:54,228 - proxy_server - DEBUG - Client closed connection
+2024-06-19 06:36:54,229 - proxy_server - DEBUG - Client closed connection
+2024-06-19 06:36:59,908 - proxy_server - DEBUG - Client closed connection
+2024-06-19 06:36:59,914 - proxy_server - DEBUG - Received CONNECT request for incoming.telemetry.mozilla.org
+2024-06-19 06:37:00,005 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:37:00,073 - proxy_server - DEBUG - SSL handshake with incoming.telemetry.mozilla.org succeeded
+2024-06-19 06:37:09,944 - proxy_server - DEBUG - Client closed connection
+2024-06-19 06:41:50,422 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:41:50,510 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:41:50,596 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:41:50,736 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:41:50,815 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:41:50,907 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:41:50,911 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:41:50,947 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:41:51,016 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:41:51,061 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:41:51,261 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:41:51,261 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:41:51,264 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:41:51,264 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:41:51,463 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:41:51,463 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:41:51,467 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:41:51,467 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:41:51,541 - proxy_server - DEBUG - Received CONNECT request for adservice.google.com
+2024-06-19 06:41:51,542 - proxy_server - DEBUG - Blocked ad domain: adservice.google.com
+2024-06-19 06:41:51,826 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 06:41:51,943 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:41:52,044 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 06:41:59,325 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 06:41:59,444 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:41:59,527 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 06:45:28,984 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:45:29,056 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:45:29,147 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:45:29,741 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:45:29,845 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 06:45:29,863 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:45:29,931 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:45:29,988 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 06:45:29,998 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:45:30,099 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:45:30,099 - proxy_server - DEBUG - Client closed connection
+2024-06-19 06:45:30,163 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:45:30,242 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:45:30,289 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:45:30,382 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:45:30,447 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:45:30,447 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:45:30,500 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:45:30,666 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:45:30,669 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:45:30,669 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:45:30,669 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:45:30,866 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:45:30,866 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:45:30,869 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:45:30,869 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:45:30,938 - proxy_server - DEBUG - Received CONNECT request for adservice.google.com
+2024-06-19 06:45:30,938 - proxy_server - DEBUG - Blocked ad domain: adservice.google.com
+2024-06-19 06:45:31,272 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 06:45:31,381 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:45:31,468 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 06:45:31,811 - proxy_server - DEBUG - Received CONNECT request for incoming.telemetry.mozilla.org
+2024-06-19 06:45:31,917 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:45:31,966 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 06:45:31,983 - proxy_server - DEBUG - SSL handshake with incoming.telemetry.mozilla.org succeeded
+2024-06-19 06:45:31,983 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 06:45:31,983 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 06:45:32,204 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:45:32,204 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:45:32,204 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:45:32,314 - proxy_server - DEBUG - Client closed connection
+2024-06-19 06:45:32,314 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 06:45:32,314 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 06:45:32,345 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 06:45:34,882 - proxy_server - DEBUG - Error forwarding request: 'ProxyHTTPRequestHandler' object has no attribute 'blocked_ips'
+2024-06-19 06:45:34,910 - proxy_server - DEBUG - Error forwarding request: 'ProxyHTTPRequestHandler' object has no attribute 'blocked_ips'
+2024-06-19 06:45:42,082 - proxy_server - DEBUG - Client closed connection
+2024-06-19 06:45:42,086 - proxy_server - DEBUG - Received CONNECT request for incoming.telemetry.mozilla.org
+2024-06-19 06:45:42,163 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:45:42,246 - proxy_server - DEBUG - SSL handshake with incoming.telemetry.mozilla.org succeeded
+2024-06-19 06:47:39,778 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:47:39,899 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 06:47:39,899 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:47:39,971 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:47:40,053 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:47:40,151 - proxy_server - DEBUG - Received CONNECT request for encrypted-tbn0.gstatic.com
+2024-06-19 06:47:40,268 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:47:40,370 - proxy_server - DEBUG - SSL handshake with encrypted-tbn0.gstatic.com succeeded
+2024-06-19 06:47:40,799 - proxy_server - DEBUG - Client closed connection
+2024-06-19 06:47:40,860 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:47:40,937 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:47:40,995 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 06:47:41,017 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:47:41,122 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:47:41,298 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:47:41,359 - proxy_server - DEBUG - Received CONNECT request for www.gstatic.com
+2024-06-19 06:47:41,407 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 06:47:41,407 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:47:41,542 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:47:41,542 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:47:41,579 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:47:41,654 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:47:41,853 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 06:47:41,876 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:47:41,877 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:47:41,877 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:47:41,877 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:47:41,877 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:47:42,103 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:47:42,103 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:47:42,103 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:47:42,106 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:47:42,106 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:47:42,173 - proxy_server - DEBUG - Received CONNECT request for adservice.google.com
+2024-06-19 06:47:42,173 - proxy_server - DEBUG - Blocked ad domain: adservice.google.com
+2024-06-19 06:47:42,436 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 06:47:42,514 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:47:42,562 - proxy_server - DEBUG - Received CONNECT request for incoming.telemetry.mozilla.org
+2024-06-19 06:47:42,640 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 06:47:42,688 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:47:42,754 - proxy_server - DEBUG - SSL handshake with incoming.telemetry.mozilla.org succeeded
+2024-06-19 06:47:43,656 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 06:47:43,684 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 06:47:43,719 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 06:47:43,875 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:47:43,875 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:47:43,875 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:47:44,006 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 06:47:44,006 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 06:47:44,006 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 06:47:45,643 - proxy_server - DEBUG - Error forwarding request: 'ProxyHTTPRequestHandler' object has no attribute 'blocked_ips'
+2024-06-19 06:47:52,076 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 06:47:52,154 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:47:52,255 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 06:47:52,534 - proxy_server - DEBUG - Client closed connection
+2024-06-19 06:47:52,537 - proxy_server - DEBUG - Received CONNECT request for incoming.telemetry.mozilla.org
+2024-06-19 06:47:52,603 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:47:52,688 - proxy_server - DEBUG - SSL handshake with incoming.telemetry.mozilla.org succeeded
+2024-06-19 06:48:03,213 - proxy_server - DEBUG - Client closed connection
+2024-06-19 06:48:03,215 - proxy_server - DEBUG - Received CONNECT request for incoming.telemetry.mozilla.org
+2024-06-19 06:48:03,316 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:48:03,371 - proxy_server - DEBUG - SSL handshake with incoming.telemetry.mozilla.org succeeded
+2024-06-19 06:48:13,216 - proxy_server - DEBUG - Client closed connection
+2024-06-19 06:49:52,604 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:49:52,771 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:49:52,873 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:49:55,078 - proxy_server - DEBUG - Error forwarding request: 'ProxyHTTPRequestHandler' object has no attribute 'blocked_ips'
+2024-06-19 06:51:50,184 - proxy_server - DEBUG - Client closed connection
+2024-06-19 06:53:50,074 - proxy_server - DEBUG - Blocked request from/to IP: 127.0.0.1 / 8.8.8.8
+2024-06-19 06:53:57,648 - proxy_server - DEBUG - Blocked request from/to IP: 127.0.0.1 / 8.8.8.8
+2024-06-19 06:55:16,077 - proxy_server - DEBUG - Blocked request from/to IP: 127.0.0.1 / 8.8.4.4
+2024-06-19 06:55:16,094 - proxy_server - DEBUG - Blocked request from/to IP: 127.0.0.1 / 8.8.4.4
+2024-06-19 06:55:30,445 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:55:30,550 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 06:55:30,600 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:55:30,687 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:55:30,774 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:55:30,835 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:55:30,867 - proxy_server - DEBUG - Client closed connection
+2024-06-19 06:55:30,888 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:55:30,962 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:55:30,991 - proxy_server - DEBUG - Client closed connection
+2024-06-19 06:55:31,060 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:55:31,138 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:55:31,220 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:55:31,221 - proxy_server - DEBUG - Client closed connection
+2024-06-19 06:55:31,232 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:55:31,315 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:55:31,389 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:55:31,405 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:55:31,436 - proxy_server - DEBUG - Client closed connection
+2024-06-19 06:55:31,462 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:55:31,546 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:55:31,546 - proxy_server - DEBUG - Client closed connection
+2024-06-19 06:55:31,580 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:55:31,645 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:55:31,730 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 06:55:31,730 - proxy_server - DEBUG - Client closed connection
+2024-06-19 06:55:32,450 - proxy_server - DEBUG - Received CONNECT request for facebook.com
+2024-06-19 06:55:32,616 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:55:32,684 - proxy_server - DEBUG - SSL handshake with facebook.com succeeded
+2024-06-19 06:55:32,866 - proxy_server - DEBUG - Received CONNECT request for www.facebook.com
+2024-06-19 06:55:32,939 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:55:33,002 - proxy_server - DEBUG - SSL handshake with www.facebook.com succeeded
+2024-06-19 06:55:33,272 - proxy_server - DEBUG - Received CONNECT request for static.xx.fbcdn.net
+2024-06-19 06:55:33,306 - proxy_server - DEBUG - Received CONNECT request for static.xx.fbcdn.net
+2024-06-19 06:55:33,336 - proxy_server - DEBUG - Received CONNECT request for static.xx.fbcdn.net
+2024-06-19 06:55:33,363 - proxy_server - DEBUG - Received CONNECT request for static.xx.fbcdn.net
+2024-06-19 06:55:33,463 - proxy_server - DEBUG - Received CONNECT request for static.xx.fbcdn.net
+2024-06-19 06:55:33,627 - proxy_server - DEBUG - Received CONNECT request for static.xx.fbcdn.net
+2024-06-19 06:55:33,827 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:55:33,835 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:55:33,835 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:55:33,842 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:55:33,842 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:55:33,843 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:55:34,017 - proxy_server - DEBUG - SSL handshake with static.xx.fbcdn.net succeeded
+2024-06-19 06:55:34,032 - proxy_server - DEBUG - SSL handshake with static.xx.fbcdn.net succeeded
+2024-06-19 06:55:34,051 - proxy_server - DEBUG - SSL handshake with static.xx.fbcdn.net succeeded
+2024-06-19 06:55:34,059 - proxy_server - DEBUG - SSL handshake with static.xx.fbcdn.net succeeded
+2024-06-19 06:55:34,079 - proxy_server - DEBUG - SSL handshake with static.xx.fbcdn.net succeeded
+2024-06-19 06:55:34,082 - proxy_server - DEBUG - SSL handshake with static.xx.fbcdn.net succeeded
+2024-06-19 06:55:37,144 - proxy_server - DEBUG - Client closed connection
+2024-06-19 06:55:37,144 - proxy_server - DEBUG - Client closed connection
+2024-06-19 06:55:37,144 - proxy_server - DEBUG - Received CONNECT request for static.xx.fbcdn.net
+2024-06-19 06:55:37,150 - proxy_server - DEBUG - Client closed connection
+2024-06-19 06:55:37,212 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 06:55:37,296 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 06:55:37,364 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 06:55:37,474 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 07:02:04,420 - proxy_server - DEBUG - Received CONNECT request for incoming.telemetry.mozilla.org
+2024-06-19 07:02:04,469 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:02:04,579 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 07:02:04,687 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 07:02:04,727 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 07:02:04,800 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 07:02:04,879 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:02:05,010 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:02:05,147 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:02:05,175 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:02:05,182 - proxy_server - DEBUG - SSL handshake with incoming.telemetry.mozilla.org succeeded
+2024-06-19 07:02:05,211 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:02:05,211 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:02:05,226 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:02:05,260 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:02:05,281 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 07:02:05,337 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 07:02:05,411 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 07:02:05,427 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 07:02:05,427 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 07:02:05,463 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 07:02:05,513 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 07:02:05,594 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:02:05,651 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 07:02:05,847 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:02:05,912 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 07:02:05,990 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:02:06,114 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:02:06,225 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 07:02:06,230 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 07:02:06,513 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 07:02:06,607 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:02:06,665 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 07:02:06,740 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:02:06,894 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:02:07,019 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:02:07,115 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:02:07,115 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:02:07,209 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 07:02:07,209 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:02:07,209 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:02:07,448 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:02:07,501 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:02:07,501 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:02:07,501 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:02:07,501 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:02:07,561 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 07:02:07,661 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 07:02:07,741 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 07:02:07,741 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 07:02:07,741 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 07:02:07,747 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 07:02:07,750 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:02:07,807 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 07:02:07,810 - proxy_server - DEBUG - Received CONNECT request for adservice.google.com
+2024-06-19 07:02:07,812 - proxy_server - DEBUG - Blocked ad domain: adservice.google.com
+2024-06-19 07:02:07,922 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 07:02:08,033 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:02:08,122 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 07:02:10,443 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:02:10,446 - proxy_server - DEBUG - Received CONNECT request for incoming.telemetry.mozilla.org
+2024-06-19 07:02:10,538 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:02:10,593 - proxy_server - DEBUG - SSL handshake with incoming.telemetry.mozilla.org succeeded
+2024-06-19 07:02:21,629 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:02:21,637 - proxy_server - DEBUG - Received CONNECT request for incoming.telemetry.mozilla.org
+2024-06-19 07:02:21,699 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:02:21,763 - proxy_server - DEBUG - SSL handshake with incoming.telemetry.mozilla.org succeeded
+2024-06-19 07:02:25,870 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 07:02:25,947 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:02:26,030 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 07:09:59,530 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:09:59,636 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:09:59,733 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 07:09:59,945 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:10:00,037 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:00,123 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 07:10:00,123 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:10:00,138 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:10:00,213 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 07:10:00,216 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:10:00,296 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 07:10:00,640 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:10:00,723 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:00,818 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 07:10:01,085 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:10:01,159 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:10:01,191 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:10:01,220 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:10:01,387 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:01,396 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:01,409 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:01,473 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:01,537 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 07:10:01,537 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 07:10:01,607 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 07:10:01,607 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 07:10:01,625 - proxy_server - DEBUG - Received CONNECT request for adservice.google.com
+2024-06-19 07:10:01,625 - proxy_server - DEBUG - Blocked ad domain: adservice.google.com
+2024-06-19 07:10:02,060 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 07:10:02,148 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:02,203 - proxy_server - DEBUG - Received CONNECT request for incoming.telemetry.mozilla.org
+2024-06-19 07:10:02,269 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 07:10:02,288 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:02,346 - proxy_server - DEBUG - SSL handshake with incoming.telemetry.mozilla.org succeeded
+2024-06-19 07:10:02,455 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:10:02,582 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 07:10:02,628 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:10:02,708 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:02,803 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 07:10:02,816 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:10:02,849 - proxy_server - DEBUG - Received CONNECT request for scroll.in
+2024-06-19 07:10:02,936 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:02,985 - proxy_server - DEBUG - SSL handshake with scroll.in succeeded
+2024-06-19 07:10:03,191 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:10:03,191 - proxy_server - DEBUG - Received CONNECT request for www.googletagmanager.com
+2024-06-19 07:10:03,198 - proxy_server - DEBUG - Blocked ad domain: www.googletagmanager.com
+2024-06-19 07:10:03,245 - proxy_server - DEBUG - Received CONNECT request for ads.pubmatic.com
+2024-06-19 07:10:03,245 - proxy_server - DEBUG - Received CONNECT request for c.amazon-adsystem.com
+2024-06-19 07:10:03,331 - proxy_server - DEBUG - Received CONNECT request for scroll.in
+2024-06-19 07:10:03,517 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 07:10:03,577 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 07:10:03,577 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 07:10:03,821 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:03,821 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:03,821 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:03,927 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:03,989 - proxy_server - DEBUG - SSL handshake with ads.pubmatic.com succeeded
+2024-06-19 07:10:03,989 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:04,000 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:04,027 - proxy_server - DEBUG - SSL handshake with scroll.in succeeded
+2024-06-19 07:10:04,027 - proxy_server - DEBUG - SSL handshake with c.amazon-adsystem.com succeeded
+2024-06-19 07:10:04,132 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 07:10:04,135 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 07:10:04,135 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 07:10:04,180 - proxy_server - DEBUG - Received CONNECT request for scroll.in
+2024-06-19 07:10:04,243 - proxy_server - DEBUG - Received CONNECT request for storage.googleapis.com
+2024-06-19 07:10:04,309 - proxy_server - DEBUG - Received CONNECT request for storage.googleapis.com
+2024-06-19 07:10:04,440 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:04,440 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:04,440 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:04,545 - proxy_server - DEBUG - Received CONNECT request for securepubads.g.doubleclick.net
+2024-06-19 07:10:04,557 - proxy_server - DEBUG - Blocked ad domain: securepubads.g.doubleclick.net
+2024-06-19 07:10:04,564 - proxy_server - DEBUG - SSL handshake with scroll.in succeeded
+2024-06-19 07:10:04,566 - proxy_server - DEBUG - Received CONNECT request for securepubads.g.doubleclick.net
+2024-06-19 07:10:04,566 - proxy_server - DEBUG - Blocked ad domain: securepubads.g.doubleclick.net
+2024-06-19 07:10:04,597 - proxy_server - DEBUG - SSL handshake with storage.googleapis.com succeeded
+2024-06-19 07:10:04,597 - proxy_server - DEBUG - SSL handshake with storage.googleapis.com succeeded
+2024-06-19 07:10:04,600 - proxy_server - DEBUG - Received CONNECT request for sc0.blr1.cdn.digitaloceanspaces.com
+2024-06-19 07:10:04,704 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 07:10:04,800 - proxy_server - DEBUG - Received CONNECT request for sc0.blr1.cdn.digitaloceanspaces.com
+2024-06-19 07:10:04,854 - proxy_server - DEBUG - Received CONNECT request for sc0.blr1.cdn.digitaloceanspaces.com
+2024-06-19 07:10:04,864 - proxy_server - DEBUG - Received CONNECT request for d1u4oo4rb13yy8.cloudfront.net
+2024-06-19 07:10:04,864 - proxy_server - DEBUG - Received CONNECT request for sc0.blr1.cdn.digitaloceanspaces.com
+2024-06-19 07:10:05,056 - proxy_server - DEBUG - Received CONNECT request for sc0.blr1.cdn.digitaloceanspaces.com
+2024-06-19 07:10:05,105 - proxy_server - DEBUG - Received CONNECT request for sc0.blr1.cdn.digitaloceanspaces.com
+2024-06-19 07:10:05,172 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:05,176 - proxy_server - DEBUG - Received CONNECT request for sc0.blr1.cdn.digitaloceanspaces.com
+2024-06-19 07:10:05,342 - proxy_server - DEBUG - SSL handshake with sc0.blr1.cdn.digitaloceanspaces.com succeeded
+2024-06-19 07:10:05,355 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:05,390 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:05,402 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:05,402 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:05,402 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:05,402 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:05,535 - proxy_server - DEBUG - SSL handshake with sc0.blr1.cdn.digitaloceanspaces.com succeeded
+2024-06-19 07:10:05,590 - proxy_server - DEBUG - SSL handshake with sc0.blr1.cdn.digitaloceanspaces.com succeeded
+2024-06-19 07:10:05,596 - proxy_server - DEBUG - SSL handshake with sc0.blr1.cdn.digitaloceanspaces.com succeeded
+2024-06-19 07:10:05,613 - proxy_server - DEBUG - SSL handshake with sc0.blr1.cdn.digitaloceanspaces.com succeeded
+2024-06-19 07:10:05,617 - proxy_server - DEBUG - SSL handshake with sc0.blr1.cdn.digitaloceanspaces.com succeeded
+2024-06-19 07:10:05,623 - proxy_server - DEBUG - SSL handshake with d1u4oo4rb13yy8.cloudfront.net succeeded
+2024-06-19 07:10:05,802 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:10:05,802 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:10:05,947 - proxy_server - DEBUG - Received CONNECT request for scroll.in
+2024-06-19 07:10:06,042 - proxy_server - DEBUG - Received CONNECT request for scroll.in
+2024-06-19 07:10:06,157 - proxy_server - DEBUG - Received CONNECT request for www.googletagmanager.com
+2024-06-19 07:10:06,157 - proxy_server - DEBUG - Received CONNECT request for i.ytimg.com
+2024-06-19 07:10:06,174 - proxy_server - DEBUG - Received CONNECT request for i.ytimg.com
+2024-06-19 07:10:06,190 - proxy_server - DEBUG - Blocked ad domain: www.googletagmanager.com
+2024-06-19 07:10:06,283 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 07:10:06,283 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 07:10:06,283 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:06,283 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:06,294 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 07:10:06,425 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 07:10:06,586 - proxy_server - DEBUG - SSL handshake with i.ytimg.com succeeded
+2024-06-19 07:10:06,586 - proxy_server - DEBUG - SSL handshake with i.ytimg.com succeeded
+2024-06-19 07:10:06,654 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:06,654 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:06,792 - proxy_server - DEBUG - SSL handshake with www.youtube.com succeeded
+2024-06-19 07:10:06,792 - proxy_server - DEBUG - SSL handshake with www.youtube.com succeeded
+2024-06-19 07:10:06,835 - proxy_server - DEBUG - Received CONNECT request for ads.pubmatic.com
+2024-06-19 07:10:06,835 - proxy_server - DEBUG - Received CONNECT request for c.amazon-adsystem.com
+2024-06-19 07:10:06,993 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:06,993 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:07,090 - proxy_server - DEBUG - SSL handshake with c.amazon-adsystem.com succeeded
+2024-06-19 07:10:07,091 - proxy_server - DEBUG - SSL handshake with ads.pubmatic.com succeeded
+2024-06-19 07:10:07,106 - proxy_server - DEBUG - Received CONNECT request for securepubads.g.doubleclick.net
+2024-06-19 07:10:07,106 - proxy_server - DEBUG - Blocked ad domain: securepubads.g.doubleclick.net
+2024-06-19 07:10:07,138 - proxy_server - DEBUG - Received CONNECT request for securepubads.g.doubleclick.net
+2024-06-19 07:10:07,138 - proxy_server - DEBUG - Blocked ad domain: securepubads.g.doubleclick.net
+2024-06-19 07:10:07,196 - proxy_server - DEBUG - Received CONNECT request for googleads.g.doubleclick.net
+2024-06-19 07:10:07,196 - proxy_server - DEBUG - Blocked ad domain: googleads.g.doubleclick.net
+2024-06-19 07:10:07,209 - proxy_server - DEBUG - Received CONNECT request for static.doubleclick.net
+2024-06-19 07:10:07,283 - proxy_server - DEBUG - Received CONNECT request for googleads.g.doubleclick.net
+2024-06-19 07:10:07,283 - proxy_server - DEBUG - Received CONNECT request for jnn-pa.googleapis.com
+2024-06-19 07:10:07,342 - proxy_server - DEBUG - Received CONNECT request for jnn-pa.googleapis.com
+2024-06-19 07:10:07,478 - proxy_server - DEBUG - Blocked ad domain: googleads.g.doubleclick.net
+2024-06-19 07:10:07,563 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 07:10:07,690 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:07,786 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 07:10:07,915 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 07:10:08,039 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:08,039 - proxy_server - DEBUG - SSL handshake with static.doubleclick.net succeeded
+2024-06-19 07:10:08,039 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 07:10:08,088 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:08,088 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 07:10:08,299 - proxy_server - DEBUG - SSL handshake with jnn-pa.googleapis.com succeeded
+2024-06-19 07:10:08,399 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:08,457 - proxy_server - DEBUG - SSL handshake with jnn-pa.googleapis.com succeeded
+2024-06-19 07:10:08,474 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:08,474 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:08,474 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:08,474 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:08,645 - proxy_server - DEBUG - SSL handshake with www.youtube.com succeeded
+2024-06-19 07:10:08,710 - proxy_server - DEBUG - SSL handshake with www.youtube.com succeeded
+2024-06-19 07:10:08,714 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 07:10:08,714 - proxy_server - DEBUG - SSL handshake with www.youtube.com succeeded
+2024-06-19 07:10:08,714 - proxy_server - DEBUG - SSL handshake with www.youtube.com succeeded
+2024-06-19 07:10:08,733 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 07:10:08,815 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 07:10:08,815 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 07:10:08,931 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:08,979 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:08,979 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:09,058 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 07:10:09,109 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 07:10:09,120 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 07:10:12,467 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:10:12,473 - proxy_server - DEBUG - Received CONNECT request for incoming.telemetry.mozilla.org
+2024-06-19 07:10:12,597 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:12,659 - proxy_server - DEBUG - SSL handshake with incoming.telemetry.mozilla.org succeeded
+2024-06-19 07:10:20,171 - proxy_server - DEBUG - Received CONNECT request for technewztop.com
+2024-06-19 07:10:20,238 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:20,290 - proxy_server - DEBUG - SSL handshake with technewztop.com succeeded
+2024-06-19 07:10:20,471 - proxy_server - DEBUG - Received CONNECT request for analytics.google.com
+2024-06-19 07:10:20,500 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:10:20,544 - proxy_server - DEBUG - Received CONNECT request for www.google.com.sg
+2024-06-19 07:10:20,616 - proxy_server - DEBUG - Received CONNECT request for pixel.wp.com
+2024-06-19 07:10:20,667 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:20,715 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:20,715 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:20,784 - proxy_server - DEBUG - SSL handshake with analytics.google.com succeeded
+2024-06-19 07:10:20,826 - proxy_server - DEBUG - SSL handshake with pixel.wp.com succeeded
+2024-06-19 07:10:20,842 - proxy_server - DEBUG - SSL handshake with www.google.com.sg succeeded
+2024-06-19 07:10:20,842 - proxy_server - DEBUG - Received CONNECT request for pagead2.googlesyndication.com
+2024-06-19 07:10:20,844 - proxy_server - DEBUG - Blocked ad domain: pagead2.googlesyndication.com
+2024-06-19 07:10:20,846 - proxy_server - DEBUG - Received CONNECT request for pagead2.googlesyndication.com
+2024-06-19 07:10:20,847 - proxy_server - DEBUG - Blocked ad domain: pagead2.googlesyndication.com
+2024-06-19 07:10:20,901 - proxy_server - DEBUG - Received CONNECT request for pagead2.googlesyndication.com
+2024-06-19 07:10:20,903 - proxy_server - DEBUG - Blocked ad domain: pagead2.googlesyndication.com
+2024-06-19 07:10:20,903 - proxy_server - DEBUG - Received CONNECT request for pagead2.googlesyndication.com
+2024-06-19 07:10:20,903 - proxy_server - DEBUG - Blocked ad domain: pagead2.googlesyndication.com
+2024-06-19 07:10:20,925 - proxy_server - DEBUG - Received CONNECT request for cdn.larapush.com
+2024-06-19 07:10:20,973 - proxy_server - DEBUG - Received CONNECT request for cdn.larapush.com
+2024-06-19 07:10:21,085 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:21,085 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:21,162 - proxy_server - DEBUG - Received CONNECT request for stats.g.doubleclick.net
+2024-06-19 07:10:21,200 - proxy_server - DEBUG - SSL handshake with cdn.larapush.com succeeded
+2024-06-19 07:10:21,200 - proxy_server - DEBUG - SSL handshake with cdn.larapush.com succeeded
+2024-06-19 07:10:21,259 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:21,264 - proxy_server - DEBUG - Received CONNECT request for technewztop.com
+2024-06-19 07:10:21,413 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:21,453 - proxy_server - DEBUG - SSL handshake with stats.g.doubleclick.net succeeded
+2024-06-19 07:10:21,462 - proxy_server - DEBUG - SSL handshake with technewztop.com succeeded
+2024-06-19 07:10:23,153 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:10:23,155 - proxy_server - DEBUG - Received CONNECT request for incoming.telemetry.mozilla.org
+2024-06-19 07:10:23,311 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:10:23,390 - proxy_server - DEBUG - SSL handshake with incoming.telemetry.mozilla.org succeeded
+2024-06-19 07:10:24,023 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:10:33,205 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:22:06,694 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 07:22:06,793 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:22:06,883 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 07:22:06,944 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 07:22:07,013 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 07:22:07,103 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:22:07,146 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:22:07,187 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 07:22:07,230 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 07:22:07,279 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 07:22:07,387 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:22:07,476 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 07:22:16,517 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 07:22:16,585 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:22:16,674 - proxy_server - DEBUG - SSL handshake with www.youtube.com succeeded
+2024-06-19 07:22:18,523 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 07:22:18,591 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:22:18,676 - proxy_server - DEBUG - SSL handshake with www.youtube.com succeeded
+2024-06-19 07:22:19,531 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 07:22:19,612 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:22:19,696 - proxy_server - DEBUG - SSL handshake with www.youtube.com succeeded
+2024-06-19 07:22:22,567 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 07:22:22,691 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:22:22,784 - proxy_server - DEBUG - SSL handshake with www.youtube.com succeeded
+2024-06-19 07:32:22,022 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 07:32:22,022 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 07:32:22,180 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 07:32:22,307 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:32:22,443 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 07:32:22,443 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 07:32:22,539 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 07:32:22,687 - proxy_server - DEBUG - Received CONNECT request for incoming.telemetry.mozilla.org
+2024-06-19 07:32:22,786 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:32:22,893 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:32:22,907 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:32:23,021 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:32:23,030 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:32:23,030 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:32:23,030 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:32:23,030 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:32:23,035 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 07:32:23,053 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 07:32:23,169 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 07:32:23,195 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 07:32:23,195 - proxy_server - DEBUG - SSL handshake with incoming.telemetry.mozilla.org succeeded
+2024-06-19 07:32:23,209 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 07:32:23,209 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 07:32:23,227 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 07:32:23,227 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 07:32:23,227 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 07:32:23,353 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:32:23,353 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:32:23,437 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 07:32:23,437 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 07:32:23,859 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:32:23,938 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:32:23,986 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 07:32:24,036 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:32:24,110 - proxy_server - DEBUG - Received CONNECT request for www.gstatic.com
+2024-06-19 07:32:24,165 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 07:32:24,165 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 07:32:24,171 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:32:24,224 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:32:24,286 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 07:32:24,315 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 07:32:24,330 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:32:24,410 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:32:24,505 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 07:32:24,601 - proxy_server - DEBUG - Received CONNECT request for safebrowsing.googleapis.com
+2024-06-19 07:32:24,712 - proxy_server - DEBUG - Blocked request from/to IP: 127.0.0.1 / 8.8.8.8
+2024-06-19 07:32:24,712 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:32:24,780 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:32:24,780 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:32:24,780 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:32:24,780 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:32:24,855 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 07:32:24,975 - proxy_server - DEBUG - SSL handshake with safebrowsing.googleapis.com succeeded
+2024-06-19 07:32:24,975 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 07:32:24,977 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 07:32:24,978 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 07:32:24,986 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 07:32:25,080 - proxy_server - DEBUG - Remote server closed connection
+2024-06-19 07:32:25,088 - proxy_server - DEBUG - Received CONNECT request for adservice.google.com
+2024-06-19 07:32:25,089 - proxy_server - DEBUG - Blocked ad domain: adservice.google.com
+2024-06-19 07:32:25,101 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:32:25,167 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 07:32:25,255 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:32:25,258 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 07:32:25,332 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:32:25,443 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 07:32:25,999 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 07:32:26,076 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:32:26,141 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 07:32:26,170 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 07:32:26,219 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 07:32:26,329 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:32:26,329 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:32:26,456 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 07:32:26,456 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 07:32:26,565 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 07:32:26,659 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:32:26,753 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 07:32:33,980 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:32:33,982 - proxy_server - DEBUG - Received CONNECT request for incoming.telemetry.mozilla.org
+2024-06-19 07:32:34,085 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:32:34,146 - proxy_server - DEBUG - SSL handshake with incoming.telemetry.mozilla.org succeeded
+2024-06-19 07:32:42,285 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 07:32:42,386 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:32:42,486 - proxy_server - DEBUG - SSL handshake with www.youtube.com succeeded
+2024-06-19 07:32:43,993 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:34:20,687 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:34:20,687 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:34:20,687 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:34:20,689 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:34:20,689 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:34:20,690 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:34:20,690 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:34:20,690 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:34:20,690 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:34:20,690 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:34:20,691 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:34:20,691 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:34:20,691 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:34:20,691 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:34:20,691 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:34:21,697 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:34:21,698 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:34:21,698 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:34:22,702 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:34:22,702 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:34:43,706 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:34:46,308 - proxy_server - DEBUG - Received CONNECT request for firefox-api-proxy.cdn.mozilla.net
+2024-06-19 07:34:46,415 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:34:46,474 - proxy_server - DEBUG - SSL handshake with firefox-api-proxy.cdn.mozilla.net succeeded
+2024-06-19 07:36:45,008 - proxy_server - DEBUG - Client closed connection
+2024-06-19 07:36:46,997 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 07:36:47,090 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 07:36:47,180 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 09:27:14,944 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 09:27:15,034 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:27:15,198 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 09:27:15,364 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 09:27:15,460 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:27:15,658 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 09:27:18,739 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:27:18,875 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:27:19,091 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:27:23,772 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:27:23,876 - proxy_server - DEBUG - Received CONNECT request for firefox.settings.services.mozilla.com
+2024-06-19 09:27:24,012 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:27:24,012 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:27:24,037 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:27:24,227 - proxy_server - DEBUG - SSL handshake with firefox.settings.services.mozilla.com succeeded
+2024-06-19 09:27:24,233 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:27:24,256 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:27:24,256 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:27:24,369 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:27:24,536 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:27:24,536 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:27:24,536 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:27:24,545 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:27:24,824 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:27:24,824 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:27:24,824 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:27:24,824 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:27:24,895 - proxy_server - DEBUG - Received CONNECT request for adservice.google.com
+2024-06-19 09:27:24,897 - proxy_server - DEBUG - Blocked ad domain: adservice.google.com
+2024-06-19 09:27:24,972 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 09:27:25,087 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:27:25,205 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 09:28:09,540 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:28:09,632 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:28:09,841 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:28:13,445 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:28:13,592 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:28:13,630 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:28:13,812 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:28:13,829 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:28:13,847 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:28:14,012 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:28:14,106 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:28:14,112 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:28:14,122 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:28:14,123 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:28:14,506 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:28:14,509 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:28:14,519 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:28:14,523 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:28:14,684 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 09:28:14,780 - proxy_server - DEBUG - Received CONNECT request for adservice.google.com
+2024-06-19 09:28:14,780 - proxy_server - DEBUG - Blocked ad domain: adservice.google.com
+2024-06-19 09:28:14,807 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:28:14,994 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 09:29:03,900 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:29:03,993 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:29:04,152 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:29:04,427 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:29:04,550 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:29:04,579 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:29:04,706 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:29:04,727 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:29:04,763 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:29:04,767 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:29:04,916 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:29:04,976 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:29:04,976 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:29:04,976 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:29:05,117 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:29:05,276 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:29:05,291 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:29:05,291 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:29:05,396 - proxy_server - DEBUG - Received CONNECT request for adservice.google.com
+2024-06-19 09:29:05,396 - proxy_server - DEBUG - Blocked ad domain: adservice.google.com
+2024-06-19 09:29:05,646 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 09:29:05,754 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:29:05,857 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 09:30:11,916 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 09:30:11,944 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 09:30:12,106 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:30:12,106 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:30:12,341 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 09:30:12,341 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 09:30:12,525 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 09:30:12,609 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:30:12,929 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 09:33:27,030 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:33:27,142 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:33:27,389 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:33:27,596 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:33:27,797 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:33:27,834 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:33:27,991 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:33:28,117 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:33:28,162 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:33:28,162 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:33:28,318 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:33:28,369 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:33:28,383 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:33:28,385 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:33:28,534 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:33:28,584 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:33:28,584 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:33:28,584 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:33:28,661 - proxy_server - DEBUG - Received CONNECT request for adservice.google.com
+2024-06-19 09:33:28,664 - proxy_server - DEBUG - Blocked ad domain: adservice.google.com
+2024-06-19 09:33:28,949 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 09:33:29,040 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:33:29,168 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 09:36:33,976 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:36:34,087 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:36:34,302 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:36:34,484 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:36:34,570 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:36:34,623 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:36:34,788 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:36:34,830 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:36:34,921 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:36:34,921 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:36:35,103 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:36:35,168 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:36:35,168 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:36:35,174 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:36:35,252 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:36:35,370 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:36:35,370 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:36:35,374 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:36:35,447 - proxy_server - DEBUG - Received CONNECT request for adservice.google.com
+2024-06-19 09:36:35,447 - proxy_server - DEBUG - Blocked ad domain: adservice.google.com
+2024-06-19 09:36:35,657 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 09:36:35,748 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:36:35,858 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 09:37:36,150 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:37:36,264 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:37:36,374 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:37:36,476 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 09:37:36,574 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:37:36,646 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:37:36,708 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:37:36,749 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:37:36,823 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:37:36,823 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 09:37:36,924 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:37:37,034 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:37:37,034 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:37:37,034 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 09:37:37,259 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:37:37,298 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:37:37,299 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:37:37,310 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:37:37,310 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:37:37,453 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:37:37,564 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:37:37,564 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 09:37:37,564 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:37:37,564 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:37:37,672 - proxy_server - DEBUG - Received CONNECT request for adservice.google.com
+2024-06-19 09:37:37,674 - proxy_server - DEBUG - Blocked ad domain: adservice.google.com
+2024-06-19 09:37:37,787 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 09:37:37,869 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:37:37,977 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 09:54:00,882 - proxy_server - DEBUG - Received CONNECT request for contile.services.mozilla.com
+2024-06-19 09:54:00,959 - proxy_server - DEBUG - Received CONNECT request for firefox-api-proxy.cdn.mozilla.net
+2024-06-19 09:54:01,103 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:54:01,103 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:54:01,302 - proxy_server - DEBUG - SSL handshake with contile.services.mozilla.com succeeded
+2024-06-19 09:54:01,314 - proxy_server - DEBUG - SSL handshake with firefox-api-proxy.cdn.mozilla.net succeeded
+2024-06-19 09:54:01,620 - proxy_server - DEBUG - Received CONNECT request for tiles-cdn.prod.ads.prod.webservices.mozgcp.net
+2024-06-19 09:54:01,710 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:54:01,917 - proxy_server - DEBUG - SSL handshake with tiles-cdn.prod.ads.prod.webservices.mozgcp.net succeeded
+2024-06-19 09:54:04,062 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:54:04,192 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:54:04,304 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:54:04,353 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:54:04,472 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:54:04,576 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:54:08,900 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-06-19 09:54:08,987 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:54:09,069 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 09:54:09,069 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 09:54:09,310 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-06-19 09:54:09,313 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-06-19 09:54:09,453 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:54:09,455 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:54:09,473 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:54:09,699 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-06-19 09:54:09,705 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-06-19 09:54:09,790 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:54:09,821 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 09:54:09,821 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 09:54:09,903 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-06-19 09:54:09,910 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-06-19 09:54:10,008 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:54:10,011 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 09:54:10,011 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 09:54:10,275 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:54:10,277 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:54:10,371 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-06-19 09:54:10,403 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-06-19 09:54:10,479 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:54:10,559 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 09:54:10,559 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 09:54:10,625 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-06-19 09:54:10,628 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-06-19 09:54:10,715 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:54:10,934 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-06-19 09:54:10,937 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-06-19 09:54:11,037 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:54:11,239 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-06-19 09:54:11,244 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-06-19 09:54:11,340 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:54:11,411 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-06-19 09:54:11,415 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-06-19 09:54:11,551 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:54:11,617 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-06-19 09:54:11,625 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-06-19 09:54:11,713 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:54:11,783 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-06-19 09:54:11,863 - proxy_server - DEBUG - Forwarded request line: POST / HTTP/1.1
+2024-06-19 09:54:11,865 - proxy_server - DEBUG - Forwarded header: Host: ocsp.digicert.com
+2024-06-19 09:54:11,865 - proxy_server - DEBUG - Forwarded header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+2024-06-19 09:54:11,865 - proxy_server - DEBUG - Forwarded header: Accept: */*
+2024-06-19 09:54:11,865 - proxy_server - DEBUG - Forwarded header: Accept-Language: en-US,en;q=0.5
+2024-06-19 09:54:11,865 - proxy_server - DEBUG - Forwarded header: Accept-Encoding: gzip, deflate
+2024-06-19 09:54:11,865 - proxy_server - DEBUG - Forwarded header: Content-Type: application/ocsp-request
+2024-06-19 09:54:11,865 - proxy_server - DEBUG - Forwarded header: Content-Length: 83
+2024-06-19 09:54:11,865 - proxy_server - DEBUG - Forwarded header: Connection: keep-alive
+2024-06-19 09:54:11,865 - proxy_server - DEBUG - Forwarded header: Priority: u=4
+2024-06-19 09:54:11,865 - proxy_server - DEBUG - Forwarded header: Pragma: no-cache
+2024-06-19 09:54:11,865 - proxy_server - DEBUG - Forwarded header: Cache-Control: no-cache
+2024-06-19 09:54:11,865 - proxy_server - DEBUG - Forwarded body: b"0Q0O0M0K0I0\t\x06\x05+\x0e\x03\x02\x1a\x05\x00\x04\x14\x10_\xa6z\x80\x08\x9d\xb5'\x9f5\xce\x83\x0bC\x88\x9e\xa3\xc7\r\x04\x14\x0f\x80a\x1c\x821a\xd5/(\xe7\x8dF8\xb4,\xe1\xc6\xd9\xe2\x02\x10\x06\xba\xad\x9a4\xcc\x06O\x8c\xd0`k\x99]\x9c$"
+2024-06-19 09:54:38,005 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:54:38,083 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:54:38,180 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:54:38,180 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:54:38,352 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:54:38,362 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:54:38,364 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:54:38,364 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:54:38,784 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:54:38,784 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:54:38,784 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:54:38,787 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:54:38,888 - proxy_server - DEBUG - Received CONNECT request for adservice.google.com
+2024-06-19 09:54:38,890 - proxy_server - DEBUG - Blocked ad domain: adservice.google.com
+2024-06-19 09:54:39,023 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 09:54:39,140 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:54:39,333 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 09:55:14,637 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 09:55:14,754 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:55:15,030 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 09:55:18,110 - proxy_server - DEBUG - Blocked request from/to IP: 127.0.0.1 / 8.8.8.8
+2024-06-19 09:55:41,374 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 09:55:41,440 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 09:55:41,588 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:55:41,588 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:55:41,793 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 09:55:41,793 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 09:55:47,901 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-06-19 09:55:48,030 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:55:48,271 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-06-19 09:55:48,281 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-06-19 09:55:48,387 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:55:48,515 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-06-19 09:55:48,518 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-06-19 09:55:48,626 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:55:48,820 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-06-19 09:55:48,823 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-06-19 09:55:48,953 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:55:49,224 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-06-19 09:55:49,228 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-06-19 09:55:49,382 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:55:49,539 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-06-19 09:55:49,543 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-06-19 09:55:49,663 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:55:49,844 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-06-19 09:55:49,849 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-06-19 09:55:50,008 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:55:50,152 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-06-19 09:55:50,157 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-06-19 09:55:50,266 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:55:50,432 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-06-19 09:55:50,434 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-06-19 09:55:50,584 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:55:50,757 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-06-19 09:55:50,771 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-06-19 09:55:50,893 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:55:51,021 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-06-19 09:55:56,954 - proxy_server - DEBUG - Client closed connection
+2024-06-19 09:55:56,954 - proxy_server - DEBUG - Client closed connection
+2024-06-19 09:55:56,954 - proxy_server - DEBUG - Client closed connection
+2024-06-19 09:56:05,651 - proxy_server - DEBUG - Client closed connection
+2024-06-19 09:56:05,651 - proxy_server - DEBUG - Client closed connection
+2024-06-19 09:56:34,784 - proxy_server - DEBUG - Client closed connection
+2024-06-19 09:56:34,784 - proxy_server - DEBUG - Client closed connection
+2024-06-19 09:56:34,784 - proxy_server - DEBUG - Client closed connection
+2024-06-19 09:56:34,784 - proxy_server - DEBUG - Client closed connection
+2024-06-19 09:56:34,784 - proxy_server - DEBUG - Client closed connection
+2024-06-19 09:57:09,799 - proxy_server - DEBUG - Client closed connection
+2024-06-19 09:57:12,778 - proxy_server - DEBUG - Received and forwarded response: 737 bytes
+2024-06-19 09:57:37,820 - proxy_server - DEBUG - Client closed connection
+2024-06-19 09:57:37,820 - proxy_server - DEBUG - Client closed connection
+2024-06-19 09:58:10,644 - proxy_server - DEBUG - Remote server closed connection
+2024-06-19 09:58:10,644 - proxy_server - DEBUG - Remote server closed connection
+2024-06-19 09:58:10,652 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 09:58:10,652 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 09:58:10,814 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:58:10,814 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:58:11,055 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 09:58:11,055 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 09:59:08,179 - proxy_server - DEBUG - Remote server closed connection
+2024-06-19 09:59:08,190 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 09:59:08,306 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:08,495 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 09:59:18,215 - proxy_server - DEBUG - Remote server closed connection
+2024-06-19 09:59:18,215 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 09:59:18,354 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:18,644 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 09:59:49,193 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 09:59:49,259 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 09:59:49,405 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 09:59:49,405 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 09:59:49,625 - proxy_server - DEBUG - Client closed connection
+2024-06-19 09:59:49,625 - proxy_server - DEBUG - Client closed connection
+2024-06-19 09:59:49,631 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 09:59:49,709 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 09:59:49,714 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 09:59:49,785 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 09:59:49,895 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 09:59:49,895 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 09:59:49,898 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 09:59:49,898 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 09:59:52,160 - proxy_server - DEBUG - Received CONNECT request for incoming.telemetry.mozilla.org
+2024-06-19 09:59:52,264 - proxy_server - DEBUG - Received CONNECT request for tiles-cdn.prod.ads.prod.webservices.mozgcp.net
+2024-06-19 09:59:52,333 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:52,337 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 09:59:52,379 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 09:59:52,466 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-06-19 09:59:52,614 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:52,614 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:59:52,674 - proxy_server - DEBUG - SSL handshake with incoming.telemetry.mozilla.org succeeded
+2024-06-19 09:59:52,752 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:52,763 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:52,763 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:52,782 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:52,882 - proxy_server - DEBUG - SSL handshake with tiles-cdn.prod.ads.prod.webservices.mozgcp.net succeeded
+2024-06-19 09:59:53,055 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 09:59:53,055 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:59:53,087 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 09:59:53,087 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-06-19 09:59:53,087 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:59:53,087 - proxy_server - DEBUG - Client closed connection
+2024-06-19 09:59:53,166 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:53,381 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:59:53,502 - proxy_server - DEBUG - Client closed connection
+2024-06-19 09:59:53,745 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:59:53,865 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:53,953 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:59:54,098 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:54,205 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:59:54,235 - proxy_server - DEBUG - Client closed connection
+2024-06-19 09:59:54,235 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 09:59:54,325 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:54,370 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:59:54,415 - proxy_server - DEBUG - Client closed connection
+2024-06-19 09:59:54,473 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 09:59:54,580 - proxy_server - DEBUG - Received CONNECT request for encrypted-tbn0.gstatic.com
+2024-06-19 09:59:54,712 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:54,866 - proxy_server - DEBUG - SSL handshake with encrypted-tbn0.gstatic.com succeeded
+2024-06-19 09:59:56,354 - proxy_server - DEBUG - Received CONNECT request for scroll.in
+2024-06-19 09:59:56,549 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:56,651 - proxy_server - DEBUG - SSL handshake with scroll.in succeeded
+2024-06-19 09:59:56,909 - proxy_server - DEBUG - Received CONNECT request for www.googletagmanager.com
+2024-06-19 09:59:56,909 - proxy_server - DEBUG - Blocked ad domain: www.googletagmanager.com
+2024-06-19 09:59:56,994 - proxy_server - DEBUG - Received CONNECT request for sc0.blr1.cdn.digitaloceanspaces.com
+2024-06-19 09:59:57,013 - proxy_server - DEBUG - Received CONNECT request for sc0.blr1.cdn.digitaloceanspaces.com
+2024-06-19 09:59:57,129 - proxy_server - DEBUG - Received CONNECT request for sc0.blr1.cdn.digitaloceanspaces.com
+2024-06-19 09:59:57,130 - proxy_server - DEBUG - Received CONNECT request for sc0.blr1.cdn.digitaloceanspaces.com
+2024-06-19 09:59:57,283 - proxy_server - DEBUG - Received CONNECT request for sc0.blr1.cdn.digitaloceanspaces.com
+2024-06-19 09:59:57,440 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:57,454 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:57,481 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:57,538 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:57,545 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:57,712 - proxy_server - DEBUG - SSL handshake with sc0.blr1.cdn.digitaloceanspaces.com succeeded
+2024-06-19 09:59:57,712 - proxy_server - DEBUG - SSL handshake with sc0.blr1.cdn.digitaloceanspaces.com succeeded
+2024-06-19 09:59:57,722 - proxy_server - DEBUG - SSL handshake with sc0.blr1.cdn.digitaloceanspaces.com succeeded
+2024-06-19 09:59:57,725 - proxy_server - DEBUG - SSL handshake with sc0.blr1.cdn.digitaloceanspaces.com succeeded
+2024-06-19 09:59:57,725 - proxy_server - DEBUG - SSL handshake with sc0.blr1.cdn.digitaloceanspaces.com succeeded
+2024-06-19 09:59:57,864 - proxy_server - DEBUG - Received CONNECT request for ads.pubmatic.com
+2024-06-19 09:59:57,893 - proxy_server - DEBUG - Client closed connection
+2024-06-19 09:59:57,893 - proxy_server - DEBUG - Received CONNECT request for c.amazon-adsystem.com
+2024-06-19 09:59:58,101 - proxy_server - DEBUG - Received CONNECT request for scroll.in
+2024-06-19 09:59:58,135 - proxy_server - DEBUG - Received CONNECT request for storage.googleapis.com
+2024-06-19 09:59:58,166 - proxy_server - DEBUG - Received CONNECT request for storage.googleapis.com
+2024-06-19 09:59:58,200 - proxy_server - DEBUG - Received CONNECT request for securepubads.g.doubleclick.net
+2024-06-19 09:59:58,249 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:58,249 - proxy_server - DEBUG - Blocked ad domain: securepubads.g.doubleclick.net
+2024-06-19 09:59:58,329 - proxy_server - DEBUG - Received CONNECT request for storage.googleapis.com
+2024-06-19 09:59:58,361 - proxy_server - DEBUG - Received CONNECT request for scroll.in
+2024-06-19 09:59:58,361 - proxy_server - DEBUG - Received CONNECT request for storage.googleapis.com
+2024-06-19 09:59:58,533 - proxy_server - DEBUG - Received CONNECT request for storage.googleapis.com
+2024-06-19 09:59:58,572 - proxy_server - DEBUG - Received CONNECT request for securepubads.g.doubleclick.net
+2024-06-19 09:59:58,572 - proxy_server - DEBUG - SSL handshake with ads.pubmatic.com succeeded
+2024-06-19 09:59:58,572 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:58,574 - proxy_server - DEBUG - Received CONNECT request for storage.googleapis.com
+2024-06-19 09:59:58,703 - proxy_server - DEBUG - Blocked ad domain: securepubads.g.doubleclick.net
+2024-06-19 09:59:58,770 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:58,880 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:58,913 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:58,957 - proxy_server - DEBUG - SSL handshake with scroll.in succeeded
+2024-06-19 09:59:58,957 - proxy_server - DEBUG - SSL handshake with c.amazon-adsystem.com succeeded
+2024-06-19 09:59:59,018 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:59,018 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:59,066 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:59,066 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:59,066 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:59,147 - proxy_server - DEBUG - SSL handshake with storage.googleapis.com succeeded
+2024-06-19 09:59:59,249 - proxy_server - DEBUG - SSL handshake with storage.googleapis.com succeeded
+2024-06-19 09:59:59,307 - proxy_server - DEBUG - SSL handshake with scroll.in succeeded
+2024-06-19 09:59:59,307 - proxy_server - DEBUG - Client closed connection
+2024-06-19 09:59:59,307 - proxy_server - DEBUG - Client closed connection
+2024-06-19 09:59:59,307 - proxy_server - DEBUG - SSL handshake with storage.googleapis.com succeeded
+2024-06-19 09:59:59,307 - proxy_server - DEBUG - SSL handshake with storage.googleapis.com succeeded
+2024-06-19 09:59:59,307 - proxy_server - DEBUG - Client closed connection
+2024-06-19 09:59:59,356 - proxy_server - DEBUG - SSL handshake with storage.googleapis.com succeeded
+2024-06-19 09:59:59,364 - proxy_server - DEBUG - SSL handshake with storage.googleapis.com succeeded
+2024-06-19 09:59:59,460 - proxy_server - DEBUG - Received CONNECT request for www.googletagmanager.com
+2024-06-19 09:59:59,462 - proxy_server - DEBUG - Blocked ad domain: www.googletagmanager.com
+2024-06-19 09:59:59,462 - proxy_server - DEBUG - Client closed connection
+2024-06-19 09:59:59,511 - proxy_server - DEBUG - Received CONNECT request for i.ytimg.com
+2024-06-19 09:59:59,528 - proxy_server - DEBUG - Received CONNECT request for scroll.in
+2024-06-19 09:59:59,701 - proxy_server - DEBUG - Received CONNECT request for i.ytimg.com
+2024-06-19 09:59:59,800 - proxy_server - DEBUG - Received CONNECT request for scroll.in
+2024-06-19 09:59:59,880 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:59,897 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:59,897 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 09:59:59,897 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:00:00,081 - proxy_server - DEBUG - SSL handshake with i.ytimg.com succeeded
+2024-06-19 10:00:00,087 - proxy_server - DEBUG - Received CONNECT request for ads.pubmatic.com
+2024-06-19 10:00:00,087 - proxy_server - DEBUG - Received CONNECT request for c.amazon-adsystem.com
+2024-06-19 10:00:00,214 - proxy_server - DEBUG - SSL handshake with scroll.in succeeded
+2024-06-19 10:00:00,214 - proxy_server - DEBUG - SSL handshake with i.ytimg.com succeeded
+2024-06-19 10:00:00,214 - proxy_server - DEBUG - SSL handshake with scroll.in succeeded
+2024-06-19 10:00:00,381 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:00:00,381 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:00:00,473 - proxy_server - DEBUG - Received CONNECT request for scroll.in
+2024-06-19 10:00:00,565 - proxy_server - DEBUG - SSL handshake with c.amazon-adsystem.com succeeded
+2024-06-19 10:00:00,567 - proxy_server - DEBUG - SSL handshake with ads.pubmatic.com succeeded
+2024-06-19 10:00:00,568 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 10:00:00,568 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 10:00:00,795 - proxy_server - DEBUG - Received CONNECT request for securepubads.g.doubleclick.net
+2024-06-19 10:00:00,795 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:00:00,795 - proxy_server - DEBUG - Blocked ad domain: securepubads.g.doubleclick.net
+2024-06-19 10:00:00,862 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:00:00,867 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:00:00,945 - proxy_server - DEBUG - SSL handshake with scroll.in succeeded
+2024-06-19 10:00:01,026 - proxy_server - DEBUG - Received CONNECT request for securepubads.g.doubleclick.net
+2024-06-19 10:00:01,026 - proxy_server - DEBUG - Blocked ad domain: securepubads.g.doubleclick.net
+2024-06-19 10:00:01,042 - proxy_server - DEBUG - SSL handshake with www.youtube.com succeeded
+2024-06-19 10:00:01,042 - proxy_server - DEBUG - SSL handshake with www.youtube.com succeeded
+2024-06-19 10:00:01,460 - proxy_server - DEBUG - Received CONNECT request for googleads.g.doubleclick.net
+2024-06-19 10:00:01,460 - proxy_server - DEBUG - Blocked ad domain: googleads.g.doubleclick.net
+2024-06-19 10:00:01,528 - proxy_server - DEBUG - Received CONNECT request for googleads.g.doubleclick.net
+2024-06-19 10:00:01,528 - proxy_server - DEBUG - Blocked ad domain: googleads.g.doubleclick.net
+2024-06-19 10:00:01,534 - proxy_server - DEBUG - Received CONNECT request for static.doubleclick.net
+2024-06-19 10:00:01,609 - proxy_server - DEBUG - Received CONNECT request for static.doubleclick.net
+2024-06-19 10:00:01,668 - proxy_server - DEBUG - Received CONNECT request for jnn-pa.googleapis.com
+2024-06-19 10:00:01,763 - proxy_server - DEBUG - Received CONNECT request for jnn-pa.googleapis.com
+2024-06-19 10:00:01,764 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 10:00:01,765 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 10:00:02,004 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:00:02,047 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 10:00:02,117 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:00:02,117 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 10:00:02,117 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 10:00:02,117 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 10:00:02,182 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:00:02,183 - proxy_server - DEBUG - SSL handshake with static.doubleclick.net succeeded
+2024-06-19 10:00:02,403 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:00:02,455 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:00:02,503 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:00:02,503 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:00:02,545 - proxy_server - DEBUG - SSL handshake with static.doubleclick.net succeeded
+2024-06-19 10:00:02,551 - proxy_server - DEBUG - Received CONNECT request for incoming.telemetry.mozilla.org
+2024-06-19 10:00:02,745 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:00:02,793 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:00:02,793 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 10:00:02,793 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:00:02,794 - proxy_server - DEBUG - SSL handshake with jnn-pa.googleapis.com succeeded
+2024-06-19 10:00:02,797 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 10:00:02,799 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:00:02,801 - proxy_server - DEBUG - SSL handshake with jnn-pa.googleapis.com succeeded
+2024-06-19 10:00:02,807 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:00:02,988 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:00:02,989 - proxy_server - DEBUG - SSL handshake with www.youtube.com succeeded
+2024-06-19 10:00:03,051 - proxy_server - DEBUG - SSL handshake with www.youtube.com succeeded
+2024-06-19 10:00:03,053 - proxy_server - DEBUG - SSL handshake with www.youtube.com succeeded
+2024-06-19 10:00:03,053 - proxy_server - DEBUG - SSL handshake with www.youtube.com succeeded
+2024-06-19 10:00:03,058 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 10:00:03,092 - proxy_server - DEBUG - SSL handshake with incoming.telemetry.mozilla.org succeeded
+2024-06-19 10:00:03,144 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 10:00:03,227 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 10:00:03,227 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 10:00:03,312 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:00:03,402 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 10:00:03,402 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 10:00:03,428 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:00:03,612 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:00:03,666 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:00:03,672 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 10:00:03,739 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:00:03,766 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 10:00:03,766 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:00:03,831 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 10:00:03,850 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 10:00:03,860 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 10:00:03,958 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 10:00:03,958 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 10:00:03,961 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 10:00:04,045 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 10:00:04,263 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 10:00:04,367 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:00:04,407 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:00:04,514 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:00:04,514 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:00:04,573 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 10:00:04,625 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 10:00:04,675 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 10:00:04,675 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 10:00:12,444 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:00:12,448 - proxy_server - DEBUG - Received CONNECT request for incoming.telemetry.mozilla.org
+2024-06-19 10:00:12,545 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:00:12,699 - proxy_server - DEBUG - SSL handshake with incoming.telemetry.mozilla.org succeeded
+2024-06-19 10:00:22,672 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:48,618 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:48,618 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:48,618 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:50,625 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:51,633 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:53,651 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:53,653 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:53,653 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:54,668 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:54,668 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:54,668 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:54,668 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:54,668 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:54,670 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:54,670 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:54,670 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:55,684 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:55,684 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:56,687 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:56,687 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:57,701 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:57,702 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:58,703 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:58,703 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:58,703 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:58,703 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:59,717 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:59,719 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:59,719 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:59,719 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:59,719 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:01:59,719 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:02:00,718 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:02:00,718 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:02:01,947 - proxy_server - DEBUG - Received CONNECT request for googleads.g.doubleclick.net
+2024-06-19 10:02:01,947 - proxy_server - DEBUG - Received CONNECT request for googleads.g.doubleclick.net
+2024-06-19 10:02:01,950 - proxy_server - DEBUG - Blocked ad domain: googleads.g.doubleclick.net
+2024-06-19 10:02:01,950 - proxy_server - DEBUG - Blocked ad domain: googleads.g.doubleclick.net
+2024-06-19 10:02:02,731 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:02:27,757 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:02:27,757 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:03:08,619 - proxy_server - DEBUG - Remote server closed connection
+2024-06-19 10:03:08,623 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 10:03:08,745 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:03:09,029 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 10:03:18,761 - proxy_server - DEBUG - Remote server closed connection
+2024-06-19 10:03:18,763 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 10:03:18,862 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:03:19,176 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 10:03:46,946 - proxy_server - DEBUG - Received CONNECT request for shavar.services.mozilla.com
+2024-06-19 10:03:47,066 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:03:48,245 - proxy_server - DEBUG - SSL handshake with shavar.services.mozilla.com succeeded
+2024-06-19 10:03:48,552 - proxy_server - DEBUG - Remote server closed connection
+2024-06-19 10:04:00,636 - proxy_server - DEBUG - Remote server closed connection
+2024-06-19 10:04:00,719 - proxy_server - DEBUG - Received CONNECT request for config.aps.amazon-adsystem.com
+2024-06-19 10:04:00,791 - proxy_server - DEBUG - Received CONNECT request for c.amazon-adsystem.com
+2024-06-19 10:04:00,791 - proxy_server - DEBUG - Received CONNECT request for c.amazon-adsystem.com
+2024-06-19 10:04:00,976 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:04:00,976 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:04:00,980 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:04:01,167 - proxy_server - DEBUG - SSL handshake with c.amazon-adsystem.com succeeded
+2024-06-19 10:04:01,167 - proxy_server - DEBUG - SSL handshake with c.amazon-adsystem.com succeeded
+2024-06-19 10:04:01,259 - proxy_server - DEBUG - SSL handshake with config.aps.amazon-adsystem.com succeeded
+2024-06-19 10:04:01,750 - proxy_server - DEBUG - Remote server closed connection
+2024-06-19 10:04:01,750 - proxy_server - DEBUG - Remote server closed connection
+2024-06-19 10:04:01,765 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 10:04:01,765 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 10:04:02,007 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:04:02,007 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:04:02,158 - proxy_server - DEBUG - SSL handshake with www.youtube.com succeeded
+2024-06-19 10:04:02,158 - proxy_server - DEBUG - SSL handshake with www.youtube.com succeeded
+2024-06-19 10:04:02,583 - proxy_server - DEBUG - Received CONNECT request for googleads.g.doubleclick.net
+2024-06-19 10:04:02,583 - proxy_server - DEBUG - Received CONNECT request for googleads.g.doubleclick.net
+2024-06-19 10:04:02,590 - proxy_server - DEBUG - Blocked ad domain: googleads.g.doubleclick.net
+2024-06-19 10:04:02,590 - proxy_server - DEBUG - Blocked ad domain: googleads.g.doubleclick.net
+2024-06-19 10:04:03,002 - proxy_server - DEBUG - Remote server closed connection
+2024-06-19 10:04:03,007 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 10:04:03,084 - proxy_server - DEBUG - Remote server closed connection
+2024-06-19 10:04:03,084 - proxy_server - DEBUG - Remote server closed connection
+2024-06-19 10:04:03,084 - proxy_server - DEBUG - Remote server closed connection
+2024-06-19 10:04:03,096 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 10:04:03,096 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 10:04:03,161 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 10:04:03,307 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:04:03,492 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:04:03,492 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:04:03,492 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:04:03,571 - proxy_server - DEBUG - SSL handshake with www.youtube.com succeeded
+2024-06-19 10:04:03,671 - proxy_server - DEBUG - SSL handshake with www.youtube.com succeeded
+2024-06-19 10:04:03,679 - proxy_server - DEBUG - SSL handshake with www.youtube.com succeeded
+2024-06-19 10:04:03,683 - proxy_server - DEBUG - SSL handshake with www.youtube.com succeeded
+2024-06-19 10:06:02,771 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:06:02,771 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:06:02,771 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:07:09,061 - proxy_server - DEBUG - Remote server closed connection
+2024-06-19 10:07:09,064 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 10:07:09,156 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:07:09,467 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 10:07:19,306 - proxy_server - DEBUG - Remote server closed connection
+2024-06-19 10:07:19,311 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 10:07:19,413 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:07:19,702 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 10:08:05,399 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 10:08:05,478 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:08:05,660 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 10:08:05,770 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:08:05,859 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 10:08:05,925 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 10:08:05,956 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 10:08:06,094 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 10:08:06,158 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:08:06,169 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:08:06,346 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 10:08:06,346 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 10:08:06,875 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 10:08:06,875 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 10:08:07,032 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:08:07,032 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:08:07,224 - proxy_server - DEBUG - SSL handshake with www.youtube.com succeeded
+2024-06-19 10:08:07,235 - proxy_server - DEBUG - SSL handshake with www.youtube.com succeeded
+2024-06-19 10:08:08,882 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 10:08:08,988 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:08:09,386 - proxy_server - DEBUG - SSL handshake with www.youtube.com succeeded
+2024-06-19 10:08:17,762 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 10:08:17,812 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:08:17,812 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:08:17,857 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:08:17,857 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 10:08:17,896 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 10:08:17,896 - proxy_server - DEBUG - Received CONNECT request for www.youtube.com
+2024-06-19 10:08:18,124 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 10:08:18,191 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 10:08:18,191 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 10:08:18,191 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 10:08:24,049 - proxy_server - DEBUG - Received CONNECT request for technewztop.com
+2024-06-19 10:08:24,182 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:08:24,310 - proxy_server - DEBUG - SSL handshake with technewztop.com succeeded
+2024-06-19 10:08:24,564 - proxy_server - DEBUG - Received CONNECT request for analytics.google.com
+2024-06-19 10:08:24,629 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:08:24,675 - proxy_server - DEBUG - Received CONNECT request for www.google.com.sg
+2024-06-19 10:08:24,766 - proxy_server - DEBUG - Received CONNECT request for pixel.wp.com
+2024-06-19 10:08:24,766 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 10:08:24,912 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:08:25,023 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:08:25,023 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:08:25,025 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:08:25,134 - proxy_server - DEBUG - Received CONNECT request for technewztop.com
+2024-06-19 10:08:25,205 - proxy_server - DEBUG - Received CONNECT request for pagead2.googlesyndication.com
+2024-06-19 10:08:25,205 - proxy_server - DEBUG - Received CONNECT request for stats.g.doubleclick.net
+2024-06-19 10:08:25,230 - proxy_server - DEBUG - Blocked ad domain: pagead2.googlesyndication.com
+2024-06-19 10:08:25,245 - proxy_server - DEBUG - Received CONNECT request for pagead2.googlesyndication.com
+2024-06-19 10:08:25,245 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 10:08:25,245 - proxy_server - DEBUG - SSL handshake with analytics.google.com succeeded
+2024-06-19 10:08:25,392 - proxy_server - DEBUG - Blocked ad domain: pagead2.googlesyndication.com
+2024-06-19 10:08:25,407 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:08:25,420 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:08:25,483 - proxy_server - DEBUG - SSL handshake with www.google.com.sg succeeded
+2024-06-19 10:08:25,483 - proxy_server - DEBUG - SSL handshake with pixel.wp.com succeeded
+2024-06-19 10:08:25,501 - proxy_server - DEBUG - SSL handshake with technewztop.com succeeded
+2024-06-19 10:08:25,576 - proxy_server - DEBUG - Received CONNECT request for pagead2.googlesyndication.com
+2024-06-19 10:08:25,577 - proxy_server - DEBUG - Blocked ad domain: pagead2.googlesyndication.com
+2024-06-19 10:08:25,577 - proxy_server - DEBUG - Received CONNECT request for pagead2.googlesyndication.com
+2024-06-19 10:08:25,581 - proxy_server - DEBUG - Blocked ad domain: pagead2.googlesyndication.com
+2024-06-19 10:08:25,600 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:08:25,608 - proxy_server - DEBUG - Received CONNECT request for technewztop.com
+2024-06-19 10:08:25,672 - proxy_server - DEBUG - SSL handshake with stats.g.doubleclick.net succeeded
+2024-06-19 10:08:25,720 - proxy_server - DEBUG - Received CONNECT request for cdn.larapush.com
+2024-06-19 10:08:25,720 - proxy_server - DEBUG - Received CONNECT request for cdn.larapush.com
+2024-06-19 10:08:25,885 - proxy_server - DEBUG - Received CONNECT request for incoming.telemetry.mozilla.org
+2024-06-19 10:08:25,964 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 10:08:26,035 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:08:26,035 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:08:26,037 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:08:26,160 - proxy_server - DEBUG - Received CONNECT request for technewztop.com
+2024-06-19 10:08:26,184 - proxy_server - DEBUG - SSL handshake with cdn.larapush.com succeeded
+2024-06-19 10:08:26,223 - proxy_server - DEBUG - SSL handshake with cdn.larapush.com succeeded
+2024-06-19 10:08:26,291 - proxy_server - DEBUG - SSL handshake with incoming.telemetry.mozilla.org succeeded
+2024-06-19 10:08:26,291 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:08:26,368 - proxy_server - DEBUG - SSL handshake with technewztop.com succeeded
+2024-06-19 10:08:26,702 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:08:32,173 - proxy_server - DEBUG - Blocked request from/to IP: 127.0.0.1 / 8.8.8.8
+2024-06-19 10:08:37,308 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:08:37,324 - proxy_server - DEBUG - Received CONNECT request for incoming.telemetry.mozilla.org
+2024-06-19 10:08:37,405 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:08:37,532 - proxy_server - DEBUG - SSL handshake with incoming.telemetry.mozilla.org succeeded
+2024-06-19 10:08:49,452 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:08:49,452 - proxy_server - DEBUG - Received CONNECT request for incoming.telemetry.mozilla.org
+2024-06-19 10:08:49,563 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:08:49,721 - proxy_server - DEBUG - SSL handshake with incoming.telemetry.mozilla.org succeeded
+2024-06-19 10:08:59,492 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:09:01,076 - proxy_server - DEBUG - Received CONNECT request for contile.services.mozilla.com
+2024-06-19 10:09:01,167 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:09:01,290 - proxy_server - DEBUG - SSL handshake with contile.services.mozilla.com succeeded
+2024-06-19 10:09:22,503 - proxy_server - DEBUG - Received CONNECT request for push.services.mozilla.com
+2024-06-19 10:09:22,599 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:09:22,788 - proxy_server - DEBUG - SSL handshake with push.services.mozilla.com succeeded
+2024-06-19 10:09:23,402 - proxy_server - DEBUG - Received CONNECT request for firefox.settings.services.mozilla.com
+2024-06-19 10:09:23,527 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:09:23,718 - proxy_server - DEBUG - SSL handshake with firefox.settings.services.mozilla.com succeeded
+2024-06-19 10:09:23,767 - proxy_server - DEBUG - Received CONNECT request for content-signature-2.cdn.mozilla.net
+2024-06-19 10:09:23,862 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:09:24,024 - proxy_server - DEBUG - SSL handshake with content-signature-2.cdn.mozilla.net succeeded
+2024-06-19 10:09:25,554 - proxy_server - DEBUG - Remote server closed connection
+2024-06-19 10:10:02,790 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:10:02,790 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:10:20,805 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:10:21,818 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:10:21,818 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:10:21,818 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:10:25,828 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:10:41,968 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 10:10:42,040 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 10:10:42,185 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:10:42,185 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:10:42,467 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 10:10:42,467 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 10:10:42,673 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 10:10:42,741 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 10:10:42,864 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:10:42,864 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:10:43,182 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 10:10:43,184 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 10:10:56,992 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:10:59,018 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:11:19,033 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:11:20,035 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:11:57,408 - proxy_server - DEBUG - Received CONNECT request for push.services.mozilla.com
+2024-06-19 10:11:57,512 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:11:57,724 - proxy_server - DEBUG - SSL handshake with push.services.mozilla.com succeeded
+2024-06-19 10:11:58,340 - proxy_server - DEBUG - Received CONNECT request for firefox.settings.services.mozilla.com
+2024-06-19 10:11:58,428 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:11:58,498 - proxy_server - DEBUG - SSL handshake with firefox.settings.services.mozilla.com succeeded
+2024-06-19 10:12:09,130 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 10:12:09,192 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 10:12:09,295 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:12:09,295 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:12:09,553 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 10:12:09,553 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 10:12:09,654 - proxy_server - DEBUG - Received CONNECT request for technewztop.com
+2024-06-19 10:12:09,713 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 10:12:09,713 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-06-19 10:12:09,861 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:12:09,861 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:12:09,863 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:12:10,117 - proxy_server - DEBUG - SSL handshake with technewztop.com succeeded
+2024-06-19 10:12:10,144 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 10:12:10,144 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-06-19 10:12:10,230 - proxy_server - DEBUG - Received CONNECT request for analytics.google.com
+2024-06-19 10:12:10,308 - proxy_server - DEBUG - Received CONNECT request for www.google.com.sg
+2024-06-19 10:12:10,386 - proxy_server - DEBUG - Received CONNECT request for pixel.wp.com
+2024-06-19 10:12:10,520 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:12:10,539 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:12:10,539 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:12:10,773 - proxy_server - DEBUG - Received CONNECT request for pagead2.googlesyndication.com
+2024-06-19 10:12:10,773 - proxy_server - DEBUG - Blocked ad domain: pagead2.googlesyndication.com
+2024-06-19 10:12:10,788 - proxy_server - DEBUG - Received CONNECT request for pagead2.googlesyndication.com
+2024-06-19 10:12:10,791 - proxy_server - DEBUG - Blocked ad domain: pagead2.googlesyndication.com
+2024-06-19 10:12:10,856 - proxy_server - DEBUG - SSL handshake with pixel.wp.com succeeded
+2024-06-19 10:12:10,885 - proxy_server - DEBUG - SSL handshake with www.google.com.sg succeeded
+2024-06-19 10:12:10,885 - proxy_server - DEBUG - SSL handshake with analytics.google.com succeeded
+2024-06-19 10:12:10,951 - proxy_server - DEBUG - Received CONNECT request for pagead2.googlesyndication.com
+2024-06-19 10:12:10,951 - proxy_server - DEBUG - Blocked ad domain: pagead2.googlesyndication.com
+2024-06-19 10:12:10,951 - proxy_server - DEBUG - Received CONNECT request for pagead2.googlesyndication.com
+2024-06-19 10:12:10,958 - proxy_server - DEBUG - Blocked ad domain: pagead2.googlesyndication.com
+2024-06-19 10:12:10,979 - proxy_server - DEBUG - Client closed connection
+2024-06-19 10:12:10,992 - proxy_server - DEBUG - Received CONNECT request for cdn.larapush.com
+2024-06-19 10:12:11,036 - proxy_server - DEBUG - Received CONNECT request for technewztop.com
+2024-06-19 10:12:11,186 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-19 10:12:11,198 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:12:11,362 - proxy_server - DEBUG - SSL handshake with cdn.larapush.com succeeded
+2024-06-19 10:12:11,468 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-06-19 10:12:11,551 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:12:11,679 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-06-19 10:12:11,809 - proxy_server - DEBUG - Received CONNECT request for technewztop.com
+2024-06-19 10:12:11,900 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-06-19 10:12:11,991 - proxy_server - DEBUG - SSL handshake with technewztop.com succeeded
+2024-06-19 10:13:10,936 - proxy_server - DEBUG - Remote server closed connection
