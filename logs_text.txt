@@ -1,0 +1,1098 @@
+[22:00:48.706] Loading script proxy_addon.py
+[22:00:48.741] HTTP(S) proxy listening at *:8080.
+[22:00:49.974][127.0.0.1:54836] client connect
+[22:00:49.996][127.0.0.1:54836] server connect www.youtube.com:443 (142.250.195.78:443)
+[22:00:50.263] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54836: HEAD https://www.youtube.com/generate_204 HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+[22:00:50.547][127.0.0.1:54838] client connect
+[22:00:50.561][127.0.0.1:54838] server connect www.google.com:443 (142.250.76.68:443)
+[22:00:50.629] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54838: POST https://www.google.com/gen_204?atyp=i&r=1&ei=HPuTZszBLu… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+[22:00:51.488] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54838: GET https://www.google.com/ HTTP/2.0
+     << HTTP/2.0 200 OK 56.7k
+[22:00:51.684] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:00:51.697][127.0.0.1:54841] client connect
+[22:00:51.701] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:00:51.718][127.0.0.1:54842] client connect
+[22:00:51.720][127.0.0.1:54843] client connect
+[22:00:51.730][127.0.0.1:54842] server connect ogads-pa.googleapis.com:443 (142.250.182.106:443)
+127.0.0.1:54838: POST https://www.google.com/gen_204?atyp=i&r=1&ei=HPuTZszBLu… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+[22:00:51.745] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54838: POST https://www.google.com/gen_204?s=webhp&t=aft&atyp=csi&e… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+[22:00:51.759] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:00:51.764] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:00:51.785] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:00:51.794] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:00:51.798] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54838: POST https://www.google.com/gen_204?atyp=csi&r=1&ei=Pf2TZp3l… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+[22:00:51.803] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54838: GET https://www.google.com/client_204?atyp=i&biw=1536&bih=7… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+[22:00:51.832] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54838: POST https://www.google.com/gen_204?atyp=csi&r=1&ei=Pf2TZp3l… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+127.0.0.1:54842: POST https://ogads-pa.googleapis.com/$rpc/google.internal.on… HTTP/2.0
+     << HTTP/2.0 200 OK 30b
+127.0.0.1:54838: POST https://www.google.com/gen_204?atyp=i&r=1&ei=Pf2TZp3lMI… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+127.0.0.1:54838: GET https://www.google.com/complete/search?q&cp=0&client=gw… HTTP/2.0
+     << HTTP/2.0 200 OK 3.5k
+127.0.0.1:54838: GET https://www.google.com/async/hpba?vet=10ahUKEwjd96CX-qa… HTTP/2.0
+     << HTTP/2.0 200 OK 94b
+[22:00:51.889] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:00:51.892] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54838: GET https://www.google.com/gen_204?atyp=i&ct=psnt&cad=&nt=r… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+127.0.0.1:54838: POST https://www.google.com/gen_204?atyp=csi&ei=Pv2TZoq5B8Lf… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+127.0.0.1:54838: POST https://www.google.com/gen_204?atyp=csi&r=1&ei=Pf2TZp3l… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+[22:00:52.429] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54838: POST https://www.google.com/gen_204?atyp=csi&r=1&ei=Pf2TZp3l… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+[22:00:52.529] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54838: POST https://www.google.com/gen_204?atyp=i&r=1&ei=Pf2TZp3lMI… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+[22:00:52.730][127.0.0.1:54845] client connect
+[22:00:52.743][127.0.0.1:54845] server connect play.google.com:443 (142.250.195.142:443)
+[22:00:52.799] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54845: POST https://play.google.com/log?format=json&hasfast=true HTTP/2.0
+     << HTTP/2.0 401 Unauthorized 1.6k
+[22:00:57.625][127.0.0.1:54843] client disconnect
+[22:00:57.627][127.0.0.1:54841] client disconnect
+[22:00:59.672] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54838: GET https://www.google.com/ HTTP/2.0
+     << HTTP/2.0 200 OK 56.7k
+[22:00:59.864] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:00:59.868] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:00:59.880][127.0.0.1:54847] client connect
+[22:00:59.883] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:00:59.900] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:00:59.902][127.0.0.1:54848] client connect
+[22:00:59.925] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54838: POST https://www.google.com/gen_204?atyp=i&r=1&ei=Pf2TZp3lMI… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+127.0.0.1:54838: POST https://www.google.com/gen_204?s=webhp&t=aft&atyp=csi&e… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+[22:00:59.937] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:00:59.942] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54842: POST https://ogads-pa.googleapis.com/$rpc/google.internal.on… HTTP/2.0
+     << HTTP/2.0 200 OK 30b
+[22:00:59.965] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:00:59.968] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:00:59.972] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54845: POST https://play.google.com/log?hasfast=true&auth=SAPISIDHA… HTTP/2.0
+     << HTTP/2.0 401 Unauthorized 1.6k
+127.0.0.1:54838: POST https://www.google.com/gen_204?atyp=csi&r=1&ei=Rf2TZtKD… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+127.0.0.1:54838: GET https://www.google.com/client_204?atyp=i&biw=1536&bih=7… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+[22:01:00.007] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54838: POST https://www.google.com/gen_204?atyp=csi&r=1&ei=Rf2TZtKD… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+127.0.0.1:54838: POST https://www.google.com/gen_204?atyp=i&r=1&ei=Rf2TZtKDPI… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+127.0.0.1:54838: GET https://www.google.com/async/hpba?vet=10ahUKEwiSupSb-qa… HTTP/2.0
+     << HTTP/2.0 200 OK 93b
+[22:01:00.053] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:00.055] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54838: GET https://www.google.com/complete/search?q&cp=0&client=gw… HTTP/2.0
+     << HTTP/2.0 200 OK 3.5k
+127.0.0.1:54838: GET https://www.google.com/gen_204?atyp=i&ct=psnt&cad=&nt=r… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+127.0.0.1:54838: POST https://www.google.com/gen_204?atyp=csi&ei=Rv2TZpzJEcWd… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+127.0.0.1:54838: POST https://www.google.com/gen_204?atyp=csi&r=1&ei=Rf2TZtKD… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+[22:01:00.705] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54838: GET https://www.google.com/ HTTP/2.0
+     << HTTP/2.0 200 OK 56.7k
+[22:01:00.904] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:00.909] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:00.926] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:00.942] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54838: POST https://www.google.com/gen_204?atyp=i&r=1&ei=Rf2TZtKDPI… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+[22:01:00.964] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:00.976] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54838: POST https://www.google.com/gen_204?s=webhp&t=aft&atyp=csi&e… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+[22:01:00.980] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:01.004] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:01.008] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54842: POST https://ogads-pa.googleapis.com/$rpc/google.internal.on… HTTP/2.0
+     << HTTP/2.0 200 OK 30b
+[22:01:01.014] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54845: POST https://play.google.com/log?hasfast=true&auth=SAPISIDHA… HTTP/2.0
+     << HTTP/2.0 401 Unauthorized 1.6k
+127.0.0.1:54838: POST https://www.google.com/gen_204?atyp=csi&r=1&ei=R_2TZvyC… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+127.0.0.1:54838: POST https://www.google.com/gen_204?atyp=csi&r=1&ei=R_2TZvyC… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+127.0.0.1:54838: GET https://www.google.com/client_204?atyp=i&biw=1536&bih=7… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+127.0.0.1:54838: POST https://www.google.com/gen_204?atyp=i&r=1&ei=R_2TZvyCAc… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+[22:01:01.068] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54838: GET https://www.google.com/async/hpba?vet=10ahUKEwi8wtOb-qa… HTTP/2.0
+     << HTTP/2.0 200 OK 94b
+[22:01:01.098] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:01.101] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54838: GET https://www.google.com/gen_204?atyp=i&ct=psnt&cad=&nt=r… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+127.0.0.1:54838: GET https://www.google.com/complete/search?q&cp=0&client=gw… HTTP/2.0
+     << HTTP/2.0 200 OK 3.5k
+127.0.0.1:54838: POST https://www.google.com/gen_204?atyp=csi&ei=R_2TZrmEFPyX… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+127.0.0.1:54838: POST https://www.google.com/gen_204?atyp=csi&r=1&ei=R_2TZvyC… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+[22:01:01.728] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54838: POST https://www.google.com/gen_204?atyp=i&r=1&ei=R_2TZvyCAc… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+[22:01:01.947] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:02.023] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54845: POST https://play.google.com/log?format=json&hasfast=true HTTP/2.0
+     << HTTP/2.0 401 Unauthorized 1.6k
+127.0.0.1:54838: POST https://www.google.com/gen_204?atyp=i&r=1&ei=R_2TZvyCAc… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+[22:01:02.397] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54836: GET https://www.youtube.com/ HTTP/2.0
+     << HTTP/2.0 200 OK 95.3k
+[22:01:03.220] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:03.225] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54845: OPTIONS https://play.google.com/log?format=json&hasfast=true&au… HTTP/2.0
+ << stream reset by client (CANCEL)
+[22:01:03.242][127.0.0.1:54849] client connect
+[22:01:03.253][127.0.0.1:54849] server connect i.ytimg.com:443 (142.250.195.214:443)
+127.0.0.1:54836: GET https://www.youtube.com/pcs/activeview?xai=AKAOjsuf2iLw… HTTP/2.0
+     << HTTP/2.0 200 OK 42b
+[22:01:03.312] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54849: GET https://i.ytimg.com/generate_204 HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+[22:01:03.777][127.0.0.1:54851] client connect
+[22:01:03.788][127.0.0.1:54851] server connect googleads.g.doubleclick.net:443 (142.250.193.130:443)
+[22:01:03.840] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54851: GET https://googleads.g.doubleclick.net/pagead/id HTTP/2.0
+     << HTTP/2.0 200 OK 133b
+[22:01:03.912][127.0.0.1:54853] client connect
+[22:01:03.914][127.0.0.1:54854] client connect
+[22:01:03.960] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54836: POST https://www.youtube.com/youtubei/v1/att/get?prettyPrint… HTTP/2.0
+     << HTTP/2.0 200 OK 22.6k
+[22:01:04.122] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:04.125] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:04.128][127.0.0.1:54857] client connect
+[22:01:04.142][127.0.0.1:54857] server connect www.google.co.in:443 (142.250.182.99:443)
+[22:01:04.145][127.0.0.1:54854] server connect rr1---sn-q4fl6nz6.googlevideo.com:443 (173.194.57.38:443)
+[22:01:04.146][127.0.0.1:54853] server connect rr1---sn-q4fl6nz6.googlevideo.com:443 (173.194.57.38:443)
+127.0.0.1:54838: GET https://www.google.com/pagead/lvz?evtid=ACd6Kty6lQiqiUH… HTTP/2.0
+     << HTTP/2.0 200 OK 42b
+127.0.0.1:54836: POST https://www.youtube.com/youtubei/v1/guide?prettyPrint=f… HTTP/2.0
+     << HTTP/2.0 200 OK 3.4k
+[22:01:04.194] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54857: GET https://www.google.co.in/pagead/lvz?evtid=ACd6Kty6lQiqi… HTTP/2.0
+     << HTTP/2.0 200 OK 42b
+[22:01:04.258] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54836: GET https://www.youtube.com/sw.js HTTP/2.0
+     << HTTP/2.0 200 OK 3.1k
+[22:01:04.386] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:04.389] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:04.460] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54836: GET https://www.youtube.com/s/desktop/86d8f362/img/favicon_… HTTP/2.0
+     << HTTP/2.0 200 OK 2.7k
+127.0.0.1:54853: GET https://rr1---sn-q4fl6nz6.googlevideo.com/videoplayback…
+              << 403 Forbidden 0b
+[22:01:04.623][127.0.0.1:54853] server disconnect rr1---sn-q4fl6nz6.googlevideo.com:443 (173.194.57.38:443)
+[22:01:04.624][127.0.0.1:54853] client disconnect
+[22:01:04.695] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:04.698][127.0.0.1:54859] client connect
+[22:01:04.699] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:04.702] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:04.705] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:04.707][127.0.0.1:54860] client connect
+[22:01:04.710] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54849: GET https://i.ytimg.com/vi/zAQhZpHbbBY/hq720_2.jpg?sqp=-oay… HTTP/2.0
+     << HTTP/2.0 200 OK 22.6k
+[22:01:04.716][127.0.0.1:54861] client connect
+127.0.0.1:54849: GET https://i.ytimg.com/vi/9JlBpMqDXlk/hq720.jpg?sqp=-oaymw… HTTP/2.0
+     << HTTP/2.0 200 OK 34.7k
+[22:01:04.726][127.0.0.1:54859] server connect i9.ytimg.com:443 (142.250.195.206:443)
+[22:01:04.726][127.0.0.1:54860] server connect yt3.ggpht.com:443 (142.250.182.33:443)
+[22:01:04.763] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54849: GET https://i.ytimg.com/vi/iAAdmRdEhHU/hq720.jpg?sqp=-oaymw… HTTP/2.0
+     << HTTP/2.0 200 OK 83.0k
+[22:01:04.769] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54836: GET https://www.youtube.com/generate_204?lKw_ng HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+[22:01:04.784] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:04.789] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:04.791] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:04.793] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54836: GET https://www.youtube.com/pagead/adview?ai=Ci_OoSP2TZuOZM… HTTP/2.0
+     << HTTP/2.0 200 OK 0b
+127.0.0.1:54849: GET https://i.ytimg.com/vi/AEb7y1n_o9s/hq720.jpg?sqp=-oaymw… HTTP/2.0
+     << HTTP/2.0 200 OK 119k
+127.0.0.1:54860: GET https://yt3.ggpht.com/ytc/AIdro_kfmwA0r4FYmPLcJzutjmSVL… HTTP/2.0
+     << HTTP/2.0 200 OK 3.5k
+127.0.0.1:54860: GET https://yt3.ggpht.com/O5GdWN32IW9-xrtq-3kQQdBIToYjH2UvX… HTTP/2.0
+     << HTTP/2.0 200 OK 3.0k
+127.0.0.1:54860: GET https://yt3.ggpht.com/EWFCew_PB25FfaAzr9DV_fnb4zZwqKjDF… HTTP/2.0
+     << HTTP/2.0 304 Not Modified 0b
+[22:01:04.828] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54854: GET https://rr1---sn-q4fl6nz6.googlevideo.com/videoplayback…
+              << 403 Forbidden 0b
+[22:01:04.845][127.0.0.1:54854] server disconnect rr1---sn-q4fl6nz6.googlevideo.com:443 (173.194.57.38:443)
+[22:01:04.845][127.0.0.1:54854] client disconnect
+127.0.0.1:54845: OPTIONS https://play.google.com/log?format=json&hasfast=true&au… HTTP/2.0
+     << HTTP/2.0 200 OK 0b
+[22:01:04.866] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54836: POST https://www.youtube.com/youtubei/v1/log_event?alt=json&… HTTP/2.0
+     << HTTP/2.0 200 OK 31b
+[22:01:04.881][127.0.0.1:54865] client connect
+127.0.0.1:54859: GET https://i9.ytimg.com/vi/4SNThp0YiU4/hq720_custom_2.jpg?… HTTP/2.0
+     << HTTP/2.0 200 OK 77.3k
+[22:01:04.947][127.0.0.1:54861] server connect rr1---sn-q4fl6nz6.googlevideo.com:443 (173.194.57.38:443)
+127.0.0.1:54845: POST https://play.google.com/log?format=json&hasfast=true&au… HTTP/2.0
+     << HTTP/2.0 200 OK 131b
+[22:01:05.007] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54836: POST https://www.youtube.com/youtubei/v1/log_event?alt=json&… HTTP/2.0
+     << HTTP/2.0 200 OK 31b
+[22:01:05.108] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:05.114] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:05.118][127.0.0.1:54865] server connect rr1---sn-q4fl6nz6.googlevideo.com:443 (173.194.57.38:443)
+[22:01:05.142][127.0.0.1:54848] client disconnect
+[22:01:05.142][127.0.0.1:54847] client disconnect
+127.0.0.1:54836: GET https://www.youtube.com/pcs/activeview?xai=AKAOjsvP0SFb… HTTP/2.0
+     << HTTP/2.0 200 OK 42b
+[22:01:05.187] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54836: POST https://www.youtube.com/youtubei/v1/log_event?alt=json&… HTTP/2.0
+     << HTTP/2.0 200 OK 31b
+[22:01:05.263] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:05.287][127.0.0.1:54867] client connect
+[22:01:05.289][127.0.0.1:54868] client connect
+[22:01:05.299][127.0.0.1:54867] server connect jnn-pa.googleapis.com:443 (142.250.77.170:443)
+[22:01:05.300][127.0.0.1:54868] server connect static.doubleclick.net:443 (172.217.163.198:443)
+[22:01:05.356] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:05.364] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54836: POST https://www.youtube.com/youtubei/v1/log_event?alt=json&… HTTP/2.0
+     << HTTP/2.0 200 OK 31b
+[22:01:05.369] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54868: GET https://static.doubleclick.net/instream/ad_status.js HTTP/2.0
+     << HTTP/2.0 304 Not Modified 0b
+127.0.0.1:54861: GET https://rr1---sn-q4fl6nz6.googlevideo.com/videoplayback…
+              << 403 Forbidden 0b
+[22:01:05.428][127.0.0.1:54861] server disconnect rr1---sn-q4fl6nz6.googlevideo.com:443 (173.194.57.38:443)
+[22:01:05.428][127.0.0.1:54861] client disconnect
+[22:01:05.431][127.0.0.1:54871] client connect
+127.0.0.1:54867: POST https://jnn-pa.googleapis.com/$rpc/google.internal.waa.… HTTP/2.0
+     << HTTP/2.0 200 OK 40.7k
+[22:01:05.487] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:05.489] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:05.493] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54867: POST https://jnn-pa.googleapis.com/$rpc/google.internal.waa.… HTTP/2.0
+     << HTTP/2.0 200 OK 110b
+127.0.0.1:54845: POST https://play.google.com/log?format=json&hasfast=true&au… HTTP/2.0
+     << HTTP/2.0 200 OK 131b
+127.0.0.1:54845: POST https://play.google.com/log?format=json&hasfast=true&au… HTTP/2.0
+     << HTTP/2.0 200 OK 131b
+[22:01:05.661][127.0.0.1:54871] server connect rr1---sn-q4fl6nz6.googlevideo.com:443 (173.194.57.38:443)
+127.0.0.1:54865: GET https://rr1---sn-q4fl6nz6.googlevideo.com/videoplayback…
+              << 403 Forbidden 0b
+[22:01:05.827][127.0.0.1:54865] server disconnect rr1---sn-q4fl6nz6.googlevideo.com:443 (173.194.57.38:443)
+[22:01:05.828][127.0.0.1:54865] client disconnect
+[22:01:05.837][127.0.0.1:54873] client connect
+[22:01:05.896] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:06.070][127.0.0.1:54873] server connect rr1---sn-q4fl6nz6.googlevideo.com:443 (173.194.57.38:443)
+127.0.0.1:54871: GET https://rr1---sn-q4fl6nz6.googlevideo.com/videoplayback…
+ << Client disconnected.
+[22:01:06.083][127.0.0.1:54871] server disconnect rr1---sn-q4fl6nz6.googlevideo.com:443 (173.194.57.38:443)
+[22:01:06.084][127.0.0.1:54871] client disconnect
+[22:01:06.089] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:06.296] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:06.309][127.0.0.1:54873] client disconnect
+[22:01:06.310][127.0.0.1:54873] server disconnect rr1---sn-q4fl6nz6.googlevideo.com:443 (173.194.57.38:443)
+127.0.0.1:54836: POST https://www.youtube.com/youtubei/v1/att/get?prettyPrint… HTTP/2.0
+     << HTTP/2.0 200 OK 20.9k
+[22:01:06.419] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:06.422] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54836: GET https://www.youtube.com/generate_204?uQCkYg HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+127.0.0.1:54845: POST https://play.google.com/log?format=json&hasfast=true&au… HTTP/2.0
+     << HTTP/2.0 200 OK 131b
+127.0.0.1:54836: GET https://www.youtube.com/ HTTP/2.0
+     << HTTP/2.0 200 OK 96.3k
+[22:01:06.770] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:06.788] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54849: GET https://i.ytimg.com/generate_204 HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+127.0.0.1:54836: GET https://www.youtube.com/pcs/activeview?xai=AKAOjsvP0SFb… HTTP/2.0
+     << HTTP/2.0 200 OK 42b
+[22:01:07.244] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54851: GET https://googleads.g.doubleclick.net/pagead/id HTTP/2.0
+     << HTTP/2.0 200 OK 133b
+[22:01:07.389][127.0.0.1:54875] client connect
+[22:01:07.390][127.0.0.1:54876] client connect
+[22:01:07.431] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54836: POST https://www.youtube.com/youtubei/v1/att/get?prettyPrint… HTTP/2.0
+     << HTTP/2.0 200 OK 22.9k
+[22:01:07.618] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:07.621] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:07.624] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:07.627][127.0.0.1:54875] server connect rr4---sn-q4fl6n6d.googlevideo.com:443 (173.194.57.201:443)
+[22:01:07.627][127.0.0.1:54876] server connect rr4---sn-q4fl6n6d.googlevideo.com:443 (173.194.57.201:443)
+127.0.0.1:54838: GET https://www.google.com/pagead/lvz?evtid=ACd6KtyQ62AsyVJ… HTTP/2.0
+     << HTTP/2.0 200 OK 42b
+127.0.0.1:54857: GET https://www.google.co.in/pagead/lvz?evtid=ACd6KtyQ62Asy… HTTP/2.0
+     << HTTP/2.0 200 OK 42b
+127.0.0.1:54836: POST https://www.youtube.com/youtubei/v1/guide?prettyPrint=f… HTTP/2.0
+     << HTTP/2.0 200 OK 3.4k
+[22:01:07.835] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:07.868] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:07.872] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54836: GET https://www.youtube.com/sw.js HTTP/2.0
+     << HTTP/2.0 200 OK 3.1k
+127.0.0.1:54875: GET https://rr4---sn-q4fl6n6d.googlevideo.com/videoplayback…
+              << 403 Forbidden 0b
+[22:01:08.102][127.0.0.1:54875] server disconnect rr4---sn-q4fl6n6d.googlevideo.com:443 (173.194.57.201:443)
+[22:01:08.102][127.0.0.1:54875] client disconnect
+[22:01:08.193] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54860: GET https://yt3.ggpht.com/IZUEB1Eq6MBrFi2N4HXy-pRodT8oK2OBG… HTTP/2.0
+     << HTTP/2.0 200 OK 2.8k
+[22:01:08.210] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:08.220] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:08.223][127.0.0.1:54879] client connect
+127.0.0.1:54849: GET https://i.ytimg.com/vi/3OAQ0lSFE90/hq720_2.jpg?sqp=-oay… HTTP/2.0
+     << HTTP/2.0 200 OK 7.9k
+[22:01:08.268] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:08.273] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54836: GET https://www.youtube.com/generate_204?yzw-ww HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+127.0.0.1:54836: GET https://www.youtube.com/pagead/adview?ai=Chzv4TP2TZrScH… HTTP/2.0
+     << HTTP/2.0 200 OK 0b
+127.0.0.1:54876: GET https://rr4---sn-q4fl6n6d.googlevideo.com/videoplayback…
+              << 403 Forbidden 0b
+[22:01:08.331][127.0.0.1:54876] server disconnect rr4---sn-q4fl6n6d.googlevideo.com:443 (173.194.57.201:443)
+[22:01:08.332][127.0.0.1:54876] client disconnect
+[22:01:08.354] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:08.357][127.0.0.1:54881] client connect
+127.0.0.1:54845: POST https://play.google.com/log?format=json&hasfast=true&au… HTTP/2.0
+     << HTTP/2.0 200 OK 131b
+127.0.0.1:54836: POST https://www.youtube.com/youtubei/v1/log_event?alt=json&… HTTP/2.0
+     << HTTP/2.0 200 OK 31b
+[22:01:08.453][127.0.0.1:54879] server connect rr4---sn-q4fl6n6d.googlevideo.com:443 (173.194.57.201:443)
+[22:01:08.578] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:08.588][127.0.0.1:54881] server connect rr4---sn-q4fl6n6d.googlevideo.com:443 (173.194.57.201:443)
+[22:01:08.618] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54836: POST https://www.youtube.com/youtubei/v1/log_event?alt=json&… HTTP/2.0
+     << HTTP/2.0 200 OK 31b
+127.0.0.1:54836: GET https://www.youtube.com/pcs/activeview?xai=AKAOjsv1tuWG… HTTP/2.0
+     << HTTP/2.0 200 OK 42b
+[22:01:08.690] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:08.799] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:08.830] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54867: POST https://jnn-pa.googleapis.com/$rpc/google.internal.waa.… HTTP/2.0
+     << HTTP/2.0 200 OK 40.6k
+[22:01:08.910] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:08.914] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:08.917] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54879: GET https://rr4---sn-q4fl6n6d.googlevideo.com/videoplayback…
+              << 403 Forbidden 0b
+[22:01:08.922][127.0.0.1:54879] server disconnect rr4---sn-q4fl6n6d.googlevideo.com:443 (173.194.57.201:443)
+[22:01:08.923][127.0.0.1:54879] client disconnect
+[22:01:08.926][127.0.0.1:54883] client connect
+127.0.0.1:54867: POST https://jnn-pa.googleapis.com/$rpc/google.internal.waa.… HTTP/2.0
+     << HTTP/2.0 200 OK 110b
+[22:01:09.005] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54845: POST https://play.google.com/log?format=json&hasfast=true&au… HTTP/2.0
+     << HTTP/2.0 200 OK 131b
+127.0.0.1:54845: POST https://play.google.com/log?format=json&hasfast=true&au… HTTP/2.0
+     << HTTP/2.0 200 OK 131b
+127.0.0.1:54836: POST https://www.youtube.com/youtubei/v1/player?prettyPrint=… HTTP/2.0
+     << HTTP/2.0 200 OK 34.7k
+[22:01:09.150][127.0.0.1:54885] client connect
+[22:01:09.156][127.0.0.1:54885] server connect rr4---sn-5jucgv5qc5oq-cagr.googlevideo.com:443 (106.51.32.143:443)
+[22:01:09.160][127.0.0.1:54883] server connect rr4---sn-q4fl6n6d.googlevideo.com:443 (173.194.57.201:443)
+[22:01:09.171] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54885: POST https://rr4---sn-5jucgv5qc5oq-cagr.googlevideo.com/vide…
+ << Client disconnected.
+[22:01:09.175][127.0.0.1:54885] server disconnect rr4---sn-5jucgv5qc5oq-cagr.googlevideo.com:443 (106.51.32.143:443)
+[22:01:09.176][127.0.0.1:54885] client disconnect
+[22:01:09.185] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:09.217] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54836: POST https://www.youtube.com/api/stats/qoe?cpn=9R8_l5gBGpueG… HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+127.0.0.1:54867: POST https://jnn-pa.googleapis.com/$rpc/google.internal.waa.… HTTP/2.0
+     << HTTP/2.0 200 OK 8.5k
+127.0.0.1:54881: GET https://rr4---sn-q4fl6n6d.googlevideo.com/videoplayback…
+              << 403 Forbidden 0b
+[22:01:09.291][127.0.0.1:54881] server disconnect rr4---sn-q4fl6n6d.googlevideo.com:443 (173.194.57.201:443)
+[22:01:09.291][127.0.0.1:54881] client disconnect
+[22:01:09.311] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:09.315] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:09.318] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:09.320][127.0.0.1:54887] client connect
+127.0.0.1:54867: POST https://jnn-pa.googleapis.com/$rpc/google.internal.waa.… HTTP/2.0
+     << HTTP/2.0 200 OK 110b
+[22:01:09.400] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54845: POST https://play.google.com/log?format=json&hasfast=true&au… HTTP/2.0
+     << HTTP/2.0 200 OK 131b
+127.0.0.1:54845: POST https://play.google.com/log?format=json&hasfast=true&au… HTTP/2.0
+     << HTTP/2.0 200 OK 131b
+[22:01:09.553][127.0.0.1:54887] server connect rr4---sn-q4fl6n6d.googlevideo.com:443 (173.194.57.201:443)
+127.0.0.1:54883: GET https://rr4---sn-q4fl6n6d.googlevideo.com/videoplayback…
+              << 403 Forbidden 0b
+[22:01:09.637][127.0.0.1:54883] server disconnect rr4---sn-q4fl6n6d.googlevideo.com:443 (173.194.57.201:443)
+[22:01:09.637][127.0.0.1:54883] client disconnect
+[22:01:09.791] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:09.807] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54836: POST https://www.youtube.com/youtubei/v1/att/get?prettyPrint… HTTP/2.0
+     << HTTP/2.0 200 OK 20.9k
+[22:01:09.924] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+[22:01:09.929] Addon error: 'ProxyAddon' object has no attribute 'flow_filter'
+Traceback (most recent call last):
+  File "proxy_addon.py", line 62, in request
+    if self.flow_filter(host):
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'ProxyAddon' object has no attribute 'flow_filter'
+127.0.0.1:54836: GET https://www.youtube.com/generate_204?6kMbMw HTTP/2.0
+     << HTTP/2.0 204 No Content 0b
+127.0.0.1:54845: POST https://play.google.com/log?format=json&hasfast=true&au… HTTP/2.0
+     << HTTP/2.0 200 OK 131b
+127.0.0.1:54887: GET https://rr4---sn-q4fl6n6d.googlevideo.com/videoplayback…
+              << 403 Forbidden 0b

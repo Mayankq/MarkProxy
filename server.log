@@ -1636,3 +1636,430 @@
 2024-06-19 10:12:11,900 - proxy_server - DEBUG - SSL handshake with client succeeded
 2024-06-19 10:12:11,991 - proxy_server - DEBUG - SSL handshake with technewztop.com succeeded
 2024-06-19 10:13:10,936 - proxy_server - DEBUG - Remote server closed connection
+2024-07-14 18:51:00,882 - proxy_server - DEBUG - Received CONNECT request for download.mozilla.org
+2024-07-14 18:51:00,972 - proxy_server - DEBUG - Received CONNECT request for content-signature-2.cdn.mozilla.net
+2024-07-14 18:51:01,054 - proxy_server - DEBUG - Forwarded request line: POST / HTTP/1.1
+2024-07-14 18:51:01,055 - proxy_server - DEBUG - Forwarded header: Host: r10.o.lencr.org
+2024-07-14 18:51:01,055 - proxy_server - DEBUG - Forwarded header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+2024-07-14 18:51:01,055 - proxy_server - DEBUG - Forwarded header: Accept: */*
+2024-07-14 18:51:01,055 - proxy_server - DEBUG - Forwarded header: Accept-Language: en-US,en;q=0.5
+2024-07-14 18:51:01,055 - proxy_server - DEBUG - Forwarded header: Accept-Encoding: gzip, deflate
+2024-07-14 18:51:01,055 - proxy_server - DEBUG - Forwarded header: Content-Type: application/ocsp-request
+2024-07-14 18:51:01,055 - proxy_server - DEBUG - Forwarded header: Content-Length: 85
+2024-07-14 18:51:01,056 - proxy_server - DEBUG - Forwarded header: Connection: keep-alive
+2024-07-14 18:51:01,056 - proxy_server - DEBUG - Forwarded header: Priority: u=4
+2024-07-14 18:51:01,056 - proxy_server - DEBUG - Forwarded header: Pragma: no-cache
+2024-07-14 18:51:01,056 - proxy_server - DEBUG - Forwarded header: Cache-Control: no-cache
+2024-07-14 18:51:01,056 - proxy_server - DEBUG - Forwarded body: b'0S0Q0O0M0K0\t\x06\x05+\x0e\x03\x02\x1a\x05\x00\x04\x14i\x0f\xe4\x15g\xedo\x7f\xb54Dd\x06\x06o\tg\x07qr\x04\x14t\xa4v)\x17\x18T\x8517\xbeg\xe6\x06X\xc0\xbc\xc5\x05r\x02\x12\x03\x0bh\xa9.\x99\xc1d\x83I\xceL\xb5\xd3R\x89\xbb\xba'
+2024-07-14 18:51:01,066 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:01,068 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:01,131 - proxy_server - DEBUG - SSL handshake with content-signature-2.cdn.mozilla.net succeeded
+2024-07-14 18:51:01,225 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:01,315 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:01,315 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:01,505 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:01,513 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:01,513 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:01,653 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:01,654 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:01,655 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:01,659 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:01,660 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:01,687 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:01,847 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:01,848 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:01,849 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:01,958 - proxy_server - DEBUG - SSL handshake with download.mozilla.org succeeded
+2024-07-14 18:51:01,970 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:01,973 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:01,973 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:01,973 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:02,027 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:02,027 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:02,195 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:02,197 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:02,203 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:02,307 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:02,308 - proxy_server - DEBUG - Received CONNECT request for download-installer.cdn.mozilla.net
+2024-07-14 18:51:02,369 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:02,369 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:02,373 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:02,466 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:02,466 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:02,684 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:02,694 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:02,695 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:02,711 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:02,742 - proxy_server - DEBUG - Received CONNECT request for firefox.settings.services.mozilla.com
+2024-07-14 18:51:02,759 - proxy_server - DEBUG - SSL handshake with download-installer.cdn.mozilla.net succeeded
+2024-07-14 18:51:02,905 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:02,906 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:02,945 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:02,952 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:03,003 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:03,003 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:03,096 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:03,181 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:03,184 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:03,185 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:03,191 - proxy_server - DEBUG - SSL handshake with firefox.settings.services.mozilla.com succeeded
+2024-07-14 18:51:03,311 - proxy_server - DEBUG - Received CONNECT request for content-signature-2.cdn.mozilla.net
+2024-07-14 18:51:03,371 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:03,371 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:03,371 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:03,414 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:03,473 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:03,474 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:03,648 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:03,732 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:03,733 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:03,734 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:03,743 - proxy_server - DEBUG - SSL handshake with content-signature-2.cdn.mozilla.net succeeded
+2024-07-14 18:51:03,861 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:03,862 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:03,867 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:03,867 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:03,911 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:04,024 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-07-14 18:51:04,127 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:04,202 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:04,204 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:04,229 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:04,271 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:04,366 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:04,366 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:04,372 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:04,423 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:04,423 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-07-14 18:51:04,425 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:04,547 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:04,618 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:04,618 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:04,623 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:04,750 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:04,752 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:04,789 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:04,789 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:04,828 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-07-14 18:51:04,968 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-07-14 18:51:04,968 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-07-14 18:51:05,045 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:05,046 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:05,238 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:05,306 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:05,328 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:05,332 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:05,334 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:05,334 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:05,514 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:05,517 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:05,603 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-07-14 18:51:05,603 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:05,603 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-07-14 18:51:05,603 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:05,603 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-07-14 18:51:05,645 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:05,680 - proxy_server - DEBUG - Received CONNECT request for aus5.mozilla.org
+2024-07-14 18:51:05,796 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:05,799 - proxy_server - DEBUG - Received CONNECT request for www.gstatic.com
+2024-07-14 18:51:05,801 - proxy_server - DEBUG - Received CONNECT request for www.gstatic.com
+2024-07-14 18:51:05,970 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:06,006 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:06,084 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:06,136 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:06,138 - proxy_server - DEBUG - Error intercepting request: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+2024-07-14 18:51:06,149 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:06,149 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:06,327 - proxy_server - DEBUG - Received CONNECT request for content-signature-2.cdn.mozilla.net
+2024-07-14 18:51:06,414 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:06,496 - proxy_server - DEBUG - SSL handshake with content-signature-2.cdn.mozilla.net succeeded
+2024-07-14 18:51:06,603 - proxy_server - DEBUG - SSL handshake with www.gstatic.com succeeded
+2024-07-14 18:51:06,605 - proxy_server - DEBUG - SSL handshake with www.gstatic.com succeeded
+2024-07-14 18:51:06,629 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-07-14 18:51:06,708 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-07-14 18:51:06,856 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:06,915 - proxy_server - DEBUG - Received CONNECT request for ogs.google.com
+2024-07-14 18:51:06,977 - proxy_server - DEBUG - Received CONNECT request for ogads-pa.googleapis.com
+2024-07-14 18:51:06,977 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:06,977 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-07-14 18:51:07,133 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:07,134 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:07,189 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-07-14 18:51:07,234 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-07-14 18:51:07,234 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-07-14 18:51:07,376 - proxy_server - DEBUG - SSL handshake with ogads-pa.googleapis.com succeeded
+2024-07-14 18:51:07,377 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-07-14 18:51:07,377 - proxy_server - DEBUG - SSL handshake with ogs.google.com succeeded
+2024-07-14 18:51:07,529 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-07-14 18:51:07,561 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-07-14 18:51:07,596 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-07-14 18:51:07,653 - proxy_server - DEBUG - Received CONNECT request for push.services.mozilla.com
+2024-07-14 18:51:07,744 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:07,825 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:07,826 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-07-14 18:51:07,903 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:07,954 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-07-14 18:51:07,993 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-07-14 18:51:07,993 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-07-14 18:51:07,994 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:08,042 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-07-14 18:51:08,043 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-07-14 18:51:08,092 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:08,093 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-07-14 18:51:08,094 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-07-14 18:51:08,253 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-07-14 18:51:08,288 - proxy_server - DEBUG - SSL handshake with push.services.mozilla.com succeeded
+2024-07-14 18:51:08,298 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-07-14 18:51:08,310 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-07-14 18:51:08,310 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-07-14 18:51:08,703 - proxy_server - DEBUG - Received CONNECT request for reddit.com
+2024-07-14 18:51:08,822 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:08,937 - proxy_server - DEBUG - SSL handshake with reddit.com succeeded
+2024-07-14 18:51:08,982 - proxy_server - DEBUG - Remote server closed connection
+2024-07-14 18:51:08,985 - proxy_server - DEBUG - Received CONNECT request for www.reddit.com
+2024-07-14 18:51:09,071 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:09,161 - proxy_server - DEBUG - SSL handshake with www.reddit.com succeeded
+2024-07-14 18:51:09,266 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-07-14 18:51:09,344 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-07-14 18:51:09,408 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:09,409 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:09,522 - proxy_server - DEBUG - Received CONNECT request for incoming.telemetry.mozilla.org
+2024-07-14 18:51:09,582 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-07-14 18:51:09,582 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-07-14 18:51:09,604 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:09,679 - proxy_server - DEBUG - Received CONNECT request for play.google.com
+2024-07-14 18:51:09,722 - proxy_server - DEBUG - SSL handshake with incoming.telemetry.mozilla.org succeeded
+2024-07-14 18:51:09,781 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:09,856 - proxy_server - DEBUG - Received CONNECT request for www.redditstatic.com
+2024-07-14 18:51:09,919 - proxy_server - DEBUG - SSL handshake with play.google.com succeeded
+2024-07-14 18:51:09,919 - proxy_server - DEBUG - Received CONNECT request for www.redditstatic.com
+2024-07-14 18:51:09,920 - proxy_server - DEBUG - Received CONNECT request for www.redditstatic.com
+2024-07-14 18:51:09,971 - proxy_server - DEBUG - Received CONNECT request for www.redditstatic.com
+2024-07-14 18:51:09,972 - proxy_server - DEBUG - Received CONNECT request for www.redditstatic.com
+2024-07-14 18:51:10,107 - proxy_server - DEBUG - Received CONNECT request for www.redditstatic.com
+2024-07-14 18:51:10,142 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:10,318 - proxy_server - DEBUG - Received CONNECT request for preview.redd.it
+2024-07-14 18:51:10,319 - proxy_server - DEBUG - Received CONNECT request for external-preview.redd.it
+2024-07-14 18:51:10,489 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:10,530 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:10,577 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:10,580 - proxy_server - DEBUG - Received CONNECT request for preview.redd.it
+2024-07-14 18:51:10,580 - proxy_server - DEBUG - Received CONNECT request for external-preview.redd.it
+2024-07-14 18:51:10,580 - proxy_server - DEBUG - Received CONNECT request for preview.redd.it
+2024-07-14 18:51:10,601 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:10,601 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:10,715 - proxy_server - DEBUG - SSL handshake with www.redditstatic.com succeeded
+2024-07-14 18:51:11,097 - proxy_server - DEBUG - SSL handshake with www.redditstatic.com succeeded
+2024-07-14 18:51:11,100 - proxy_server - DEBUG - SSL handshake with www.redditstatic.com succeeded
+2024-07-14 18:51:11,160 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:11,160 - proxy_server - DEBUG - SSL handshake with www.redditstatic.com succeeded
+2024-07-14 18:51:11,197 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:11,253 - proxy_server - DEBUG - Received CONNECT request for external-preview.redd.it
+2024-07-14 18:51:11,278 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-07-14 18:51:11,278 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-07-14 18:51:11,340 - proxy_server - DEBUG - SSL handshake with www.redditstatic.com succeeded
+2024-07-14 18:51:11,392 - proxy_server - DEBUG - SSL handshake with www.redditstatic.com succeeded
+2024-07-14 18:51:11,540 - proxy_server - DEBUG - Received CONNECT request for img-getpocket.cdn.mozilla.net
+2024-07-14 18:51:11,610 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:11,611 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:11,657 - proxy_server - DEBUG - SSL handshake with external-preview.redd.it succeeded
+2024-07-14 18:51:11,657 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:11,660 - proxy_server - DEBUG - SSL handshake with preview.redd.it succeeded
+2024-07-14 18:51:11,775 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:11,819 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:11,874 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:11,875 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:11,989 - proxy_server - DEBUG - SSL handshake with external-preview.redd.it succeeded
+2024-07-14 18:51:12,065 - proxy_server - DEBUG - SSL handshake with preview.redd.it succeeded
+2024-07-14 18:51:12,065 - proxy_server - DEBUG - SSL handshake with preview.redd.it succeeded
+2024-07-14 18:51:12,104 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-07-14 18:51:12,104 - proxy_server - DEBUG - Received CONNECT request for safebrowsing.googleapis.com
+2024-07-14 18:51:12,142 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-07-14 18:51:12,142 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-07-14 18:51:12,198 - proxy_server - DEBUG - SSL handshake with img-getpocket.cdn.mozilla.net succeeded
+2024-07-14 18:51:12,198 - proxy_server - DEBUG - SSL handshake with external-preview.redd.it succeeded
+2024-07-14 18:51:12,240 - proxy_server - DEBUG - Received CONNECT request for emoji.redditmedia.com
+2024-07-14 18:51:12,396 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-07-14 18:51:12,519 - proxy_server - DEBUG - Received CONNECT request for safebrowsing.googleapis.com
+2024-07-14 18:51:12,551 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-07-14 18:51:12,640 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-07-14 18:51:12,678 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:12,678 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:12,722 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-07-14 18:51:12,816 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:12,886 - proxy_server - DEBUG - SSL handshake with safebrowsing.googleapis.com succeeded
+2024-07-14 18:51:12,889 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-07-14 18:51:12,890 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-07-14 18:51:12,893 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-07-14 18:51:12,959 - proxy_server - DEBUG - SSL handshake with emoji.redditmedia.com succeeded
+2024-07-14 18:51:12,993 - proxy_server - DEBUG - Client closed connection
+2024-07-14 18:51:12,994 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-07-14 18:51:13,037 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-07-14 18:51:13,096 - proxy_server - DEBUG - SSL handshake with safebrowsing.googleapis.com succeeded
+2024-07-14 18:51:13,149 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-07-14 18:51:13,150 - proxy_server - DEBUG - Remote server closed connection
+2024-07-14 18:51:13,164 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:13,275 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-07-14 18:51:13,276 - proxy_server - DEBUG - Client closed connection
+2024-07-14 18:51:13,302 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-07-14 18:51:13,415 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:13,532 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-07-14 18:51:13,738 - proxy_server - DEBUG - Client closed connection
+2024-07-14 18:51:13,797 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-07-14 18:51:13,878 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:13,999 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-07-14 18:51:14,000 - proxy_server - DEBUG - Client closed connection
+2024-07-14 18:51:14,012 - proxy_server - DEBUG - Received CONNECT request for www.google.com
+2024-07-14 18:51:14,138 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:14,237 - proxy_server - DEBUG - SSL handshake with www.google.com succeeded
+2024-07-14 18:51:14,237 - proxy_server - DEBUG - Client closed connection
+2024-07-14 18:51:14,507 - proxy_server - DEBUG - Received CONNECT request for id.google.com
+2024-07-14 18:51:14,612 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:14,728 - proxy_server - DEBUG - SSL handshake with id.google.com succeeded
+2024-07-14 18:51:15,836 - proxy_server - DEBUG - Client closed connection
+2024-07-14 18:51:15,841 - proxy_server - DEBUG - Received CONNECT request for technewztop.com
+2024-07-14 18:51:16,025 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:16,108 - proxy_server - DEBUG - SSL handshake with technewztop.com succeeded
+2024-07-14 18:51:16,221 - proxy_server - DEBUG - Received CONNECT request for technewztop.com
+2024-07-14 18:51:16,314 - proxy_server - DEBUG - Received CONNECT request for technewztop.com
+2024-07-14 18:51:16,424 - proxy_server - DEBUG - Received CONNECT request for technewztop.com
+2024-07-14 18:51:16,470 - proxy_server - DEBUG - Received CONNECT request for technewztop.com
+2024-07-14 18:51:16,569 - proxy_server - DEBUG - Received CONNECT request for technewztop.com
+2024-07-14 18:51:16,665 - proxy_server - DEBUG - Received CONNECT request for stats.wp.com
+2024-07-14 18:51:16,878 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:16,939 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:16,997 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:16,997 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:16,997 - proxy_server - DEBUG - SSL handshake with technewztop.com succeeded
+2024-07-14 18:51:16,997 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:16,999 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:17,051 - proxy_server - DEBUG - SSL handshake with technewztop.com succeeded
+2024-07-14 18:51:17,090 - proxy_server - DEBUG - SSL handshake with technewztop.com succeeded
+2024-07-14 18:51:17,216 - proxy_server - DEBUG - SSL handshake with technewztop.com succeeded
+2024-07-14 18:51:17,224 - proxy_server - DEBUG - SSL handshake with technewztop.com succeeded
+2024-07-14 18:51:17,229 - proxy_server - DEBUG - SSL handshake with stats.wp.com succeeded
+2024-07-14 18:51:17,329 - proxy_server - DEBUG - Client closed connection
+2024-07-14 18:51:17,368 - proxy_server - DEBUG - Received CONNECT request for analytics.google.com
+2024-07-14 18:51:17,423 - proxy_server - DEBUG - Received CONNECT request for www.google.com.sg
+2024-07-14 18:51:17,569 - proxy_server - DEBUG - Client closed connection
+2024-07-14 18:51:17,633 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:17,633 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:17,795 - proxy_server - DEBUG - SSL handshake with analytics.google.com succeeded
+2024-07-14 18:51:17,797 - proxy_server - DEBUG - SSL handshake with www.google.com.sg succeeded
+2024-07-14 18:51:18,031 - proxy_server - DEBUG - Received CONNECT request for stats.g.doubleclick.net
+2024-07-14 18:51:18,091 - proxy_server - DEBUG - Client closed connection
+2024-07-14 18:51:18,092 - proxy_server - DEBUG - Client closed connection
+2024-07-14 18:51:18,138 - proxy_server - DEBUG - Received CONNECT request for pagead2.googlesyndication.com
+2024-07-14 18:51:18,140 - proxy_server - DEBUG - Blocked ad domain: pagead2.googlesyndication.com
+2024-07-14 18:51:18,142 - proxy_server - DEBUG - Received CONNECT request for pagead2.googlesyndication.com
+2024-07-14 18:51:18,143 - proxy_server - DEBUG - Blocked ad domain: pagead2.googlesyndication.com
+2024-07-14 18:51:18,160 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:18,299 - proxy_server - DEBUG - SSL handshake with stats.g.doubleclick.net succeeded
+2024-07-14 18:51:18,321 - proxy_server - DEBUG - Client closed connection
+2024-07-14 18:51:18,546 - proxy_server - DEBUG - Received CONNECT request for pagead2.googlesyndication.com
+2024-07-14 18:51:18,548 - proxy_server - DEBUG - Blocked ad domain: pagead2.googlesyndication.com
+2024-07-14 18:51:18,550 - proxy_server - DEBUG - Received CONNECT request for pagead2.googlesyndication.com
+2024-07-14 18:51:18,551 - proxy_server - DEBUG - Blocked ad domain: pagead2.googlesyndication.com
+2024-07-14 18:51:18,648 - proxy_server - DEBUG - Received CONNECT request for www.redditstatic.com
+2024-07-14 18:51:18,648 - proxy_server - DEBUG - Received CONNECT request for www.redditstatic.com
+2024-07-14 18:51:18,815 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-07-14 18:51:18,815 - proxy_server - DEBUG - Error during SSL handshake or interception: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-07-14 18:51:19,599 - proxy_server - DEBUG - Client closed connection
+2024-07-14 18:51:19,604 - proxy_server - DEBUG - Received CONNECT request for incoming.telemetry.mozilla.org
+2024-07-14 18:51:19,709 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:19,791 - proxy_server - DEBUG - SSL handshake with incoming.telemetry.mozilla.org succeeded
+2024-07-14 18:51:21,883 - proxy_server - DEBUG - Received CONNECT request for technewztop.com
+2024-07-14 18:51:21,986 - proxy_server - DEBUG - Received CONNECT request for technewztop.com
+2024-07-14 18:51:22,050 - proxy_server - DEBUG - Received CONNECT request for technewztop.com
+2024-07-14 18:51:22,051 - proxy_server - DEBUG - Received CONNECT request for technewztop.com
+2024-07-14 18:51:22,319 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:22,320 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:22,320 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:22,320 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:22,497 - proxy_server - DEBUG - SSL handshake with technewztop.com succeeded
+2024-07-14 18:51:22,498 - proxy_server - DEBUG - Received CONNECT request for pixel.wp.com
+2024-07-14 18:51:22,532 - proxy_server - DEBUG - SSL handshake with technewztop.com succeeded
+2024-07-14 18:51:22,532 - proxy_server - DEBUG - SSL handshake with technewztop.com succeeded
+2024-07-14 18:51:22,597 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:22,605 - proxy_server - DEBUG - SSL handshake with technewztop.com succeeded
+2024-07-14 18:51:22,681 - proxy_server - DEBUG - SSL handshake with pixel.wp.com succeeded
+2024-07-14 18:51:26,008 - proxy_server - DEBUG - Forwarded request line: GET /canonical.html HTTP/1.1
+2024-07-14 18:51:26,008 - proxy_server - DEBUG - Forwarded header: Host: detectportal.firefox.com
+2024-07-14 18:51:26,008 - proxy_server - DEBUG - Forwarded header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+2024-07-14 18:51:26,010 - proxy_server - DEBUG - Forwarded header: Accept: */*
+2024-07-14 18:51:26,010 - proxy_server - DEBUG - Forwarded header: Accept-Language: en-US,en;q=0.5
+2024-07-14 18:51:26,010 - proxy_server - DEBUG - Forwarded header: Accept-Encoding: gzip, deflate
+2024-07-14 18:51:26,010 - proxy_server - DEBUG - Forwarded header: Cache-Control: no-cache
+2024-07-14 18:51:26,010 - proxy_server - DEBUG - Forwarded header: Pragma: no-cache
+2024-07-14 18:51:26,011 - proxy_server - DEBUG - Forwarded header: Connection: keep-alive
+2024-07-14 18:51:29,606 - proxy_server - DEBUG - Client closed connection
+2024-07-14 18:51:29,611 - proxy_server - DEBUG - Received CONNECT request for incoming.telemetry.mozilla.org
+2024-07-14 18:51:29,708 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:29,775 - proxy_server - DEBUG - SSL handshake with incoming.telemetry.mozilla.org succeeded
+2024-07-14 18:51:31,040 - proxy_server - DEBUG - Forwarded request line: GET /canonical.html HTTP/1.1
+2024-07-14 18:51:31,041 - proxy_server - DEBUG - Forwarded header: Host: detectportal.firefox.com
+2024-07-14 18:51:31,041 - proxy_server - DEBUG - Forwarded header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+2024-07-14 18:51:31,041 - proxy_server - DEBUG - Forwarded header: Accept: */*
+2024-07-14 18:51:31,042 - proxy_server - DEBUG - Forwarded header: Accept-Language: en-US,en;q=0.5
+2024-07-14 18:51:31,042 - proxy_server - DEBUG - Forwarded header: Accept-Encoding: gzip, deflate
+2024-07-14 18:51:31,042 - proxy_server - DEBUG - Forwarded header: Cache-Control: no-cache
+2024-07-14 18:51:31,042 - proxy_server - DEBUG - Forwarded header: Pragma: no-cache
+2024-07-14 18:51:31,043 - proxy_server - DEBUG - Forwarded header: Connection: keep-alive
+2024-07-14 18:51:36,047 - proxy_server - DEBUG - Forwarded request line: GET /canonical.html HTTP/1.1
+2024-07-14 18:51:36,047 - proxy_server - DEBUG - Forwarded header: Host: detectportal.firefox.com
+2024-07-14 18:51:36,047 - proxy_server - DEBUG - Forwarded header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+2024-07-14 18:51:36,048 - proxy_server - DEBUG - Forwarded header: Accept: */*
+2024-07-14 18:51:36,048 - proxy_server - DEBUG - Forwarded header: Accept-Language: en-US,en;q=0.5
+2024-07-14 18:51:36,048 - proxy_server - DEBUG - Forwarded header: Accept-Encoding: gzip, deflate
+2024-07-14 18:51:36,048 - proxy_server - DEBUG - Forwarded header: Cache-Control: no-cache
+2024-07-14 18:51:36,048 - proxy_server - DEBUG - Forwarded header: Pragma: no-cache
+2024-07-14 18:51:36,048 - proxy_server - DEBUG - Forwarded header: Connection: keep-alive
+2024-07-14 18:51:38,033 - proxy_server - DEBUG - Client closed connection
+2024-07-14 18:51:38,361 - proxy_server - DEBUG - Blocked request from/to IP: 127.0.0.1 / 8.8.8.8
+2024-07-14 18:51:39,047 - proxy_server - DEBUG - Client closed connection
+2024-07-14 18:51:39,619 - proxy_server - DEBUG - Client closed connection
+2024-07-14 18:51:41,069 - proxy_server - DEBUG - Client closed connection
+2024-07-14 18:51:41,079 - proxy_server - DEBUG - Forwarded request line: GET /canonical.html HTTP/1.1
+2024-07-14 18:51:41,079 - proxy_server - DEBUG - Forwarded header: Host: detectportal.firefox.com
+2024-07-14 18:51:41,079 - proxy_server - DEBUG - Forwarded header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+2024-07-14 18:51:41,079 - proxy_server - DEBUG - Forwarded header: Accept: */*
+2024-07-14 18:51:41,080 - proxy_server - DEBUG - Forwarded header: Accept-Language: en-US,en;q=0.5
+2024-07-14 18:51:41,080 - proxy_server - DEBUG - Forwarded header: Accept-Encoding: gzip, deflate
+2024-07-14 18:51:41,080 - proxy_server - DEBUG - Forwarded header: Cache-Control: no-cache
+2024-07-14 18:51:41,080 - proxy_server - DEBUG - Forwarded header: Pragma: no-cache
+2024-07-14 18:51:41,081 - proxy_server - DEBUG - Forwarded header: Connection: keep-alive
+2024-07-14 18:51:45,497 - proxy_server - DEBUG - Client closed connection
+2024-07-14 18:51:45,497 - proxy_server - DEBUG - Client closed connection
+2024-07-14 18:51:45,498 - proxy_server - DEBUG - Client closed connection
+2024-07-14 18:51:45,498 - proxy_server - DEBUG - Client closed connection
+2024-07-14 18:51:45,498 - proxy_server - DEBUG - Client closed connection
+2024-07-14 18:51:45,501 - proxy_server - DEBUG - Client closed connection
+2024-07-14 18:51:45,917 - proxy_server - DEBUG - Client closed connection
+2024-07-14 18:51:45,918 - proxy_server - DEBUG - Client closed connection
+2024-07-14 18:51:45,922 - proxy_server - DEBUG - Received CONNECT request for technewztop.com
+2024-07-14 18:51:46,031 - proxy_server - DEBUG - Client closed connection
+2024-07-14 18:51:46,033 - proxy_server - DEBUG - Received CONNECT request for technewztop.com
+2024-07-14 18:51:46,194 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:46,238 - proxy_server - DEBUG - Forwarded request line: GET /canonical.html HTTP/1.1
+2024-07-14 18:51:46,240 - proxy_server - DEBUG - Forwarded header: Host: detectportal.firefox.com
+2024-07-14 18:51:46,240 - proxy_server - DEBUG - Forwarded header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+2024-07-14 18:51:46,240 - proxy_server - DEBUG - Forwarded header: Accept: */*
+2024-07-14 18:51:46,240 - proxy_server - DEBUG - Forwarded header: Accept-Language: en-US,en;q=0.5
+2024-07-14 18:51:46,240 - proxy_server - DEBUG - Forwarded header: Accept-Encoding: gzip, deflate
+2024-07-14 18:51:46,241 - proxy_server - DEBUG - Forwarded header: Cache-Control: no-cache
+2024-07-14 18:51:46,241 - proxy_server - DEBUG - Forwarded header: Pragma: no-cache
+2024-07-14 18:51:46,241 - proxy_server - DEBUG - Forwarded header: Connection: keep-alive
+2024-07-14 18:51:46,243 - proxy_server - DEBUG - SSL handshake with client succeeded
+2024-07-14 18:51:46,262 - proxy_server - DEBUG - SSL handshake with technewztop.com succeeded
+2024-07-14 18:51:46,297 - proxy_server - DEBUG - SSL handshake with technewztop.com succeeded
+2024-07-14 18:51:46,486 - proxy_server - DEBUG - Client closed connection
+2024-07-14 18:51:46,523 - proxy_server - DEBUG - Client closed connection
+2024-07-14 18:51:51,189 - proxy_server - DEBUG - Forwarded request line: GET /canonical.html HTTP/1.1
+2024-07-14 18:51:51,189 - proxy_server - DEBUG - Forwarded header: Host: detectportal.firefox.com
+2024-07-14 18:51:51,189 - proxy_server - DEBUG - Forwarded header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+2024-07-14 18:51:51,190 - proxy_server - DEBUG - Forwarded header: Accept: */*
+2024-07-14 18:51:51,190 - proxy_server - DEBUG - Forwarded header: Accept-Language: en-US,en;q=0.5
+2024-07-14 18:51:51,190 - proxy_server - DEBUG - Forwarded header: Accept-Encoding: gzip, deflate
+2024-07-14 18:51:51,190 - proxy_server - DEBUG - Forwarded header: Cache-Control: no-cache
+2024-07-14 18:51:51,190 - proxy_server - DEBUG - Forwarded header: Pragma: no-cache
+2024-07-14 18:51:51,192 - proxy_server - DEBUG - Forwarded header: Connection: keep-alive
